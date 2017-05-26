@@ -22,8 +22,8 @@ Custom Npcs,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/Cus
 Eat The Eggs,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/EM3R50N-EatTheEggs-1.11.2-13.20.0.2201.jar,mod
 Lapis Stays,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/EnchantingTable-1.11-1.1.jar,mod
 Extra Bit,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/ExtraBitManipulation-1.11.2-3.0.4.jar,mod
-FTB Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/FTBLib-1.1x-3.6.1.jar,mod
-FTB Utilities,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/FTBUtilities-1.1x-3.6.0.jar,mod
+FTB Lib,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/FTBLib-1.1x-3.6.5.jar,mod
+FTB Utilities,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/FTBUtilities-1.1x-3.6.5.jar,mod
 Fragile,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/Fragile%20Glass%20and%20Thin%20Ice%201.11-1.8.1.jar,mod
 Borderless Fullscreen,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/FullscreenWindowed-1.10.2-1.5.0.jar,mod
 Graves,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/GraveStone%20Mod%201.7.2.jar,mod
@@ -60,7 +60,7 @@ TabbyChat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod-t
 Chat Bubbles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod_chatBubbles-1.0.1_for_1.11.2.litemod,mod
 Placeable Items,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/placeableitems-3.0.4.jar,mod
 Reptiles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/reptilemod-1.11.2-3.6.2-64.jar,mod
-Rustic,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/rustic-0.2.jar,mod
+Rustic,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/rustic-0.3.4.jar,mod
 Tumble Weed,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/tumbleweed-1.11-0.3.1.jar,mod
 Vending,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/vending-1.11.2-1.4.3.jar,mod
 Villager Market,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/villagermarket-0.2-HF.jar,mod
@@ -78,3 +78,4 @@ Birds Nests,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/Bir
 Animania,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/animania-1.11.2-1.0.4.7.jar,mod
 Inventory Pets,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/inventorypets-1.11.2-1.4.9.5.jar,mod
 Debug Info,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/DebugServerInfo-1.11.2-1.0.2.jar,mod
+JEHC,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/jehc-1.2.1.jar,mod
