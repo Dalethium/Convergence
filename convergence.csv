@@ -6,12 +6,10 @@ Config,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config.z
 JER Data,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/jeresources.zip,resources
 Armor Stand GUI,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/ArmorStandGUI-1.11-1.0.2.jar,mod
 Auto Reg Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/AutoRegLib-1.1-4.jar,mod
-Bed Bugs,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/BedBugs-1.11-1.1.4.jar,mod
 Better Achievments,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/BetterAchievements-1.11.2-0.4.1.44.jar,mod
 Better FPS,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/BetterFps-1.4.3.jar,mod
 Better Sprinting,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/BetterSprinting%20%20MC-1.11.2%20%20v1.1.9.jar,mod
 Biomes O Plenty,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/BiomesOPlenty-1.11.2-6.1.0.2222-universal.jar,mod
-Can I Join Now,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/CanIJoinNow-1.11-1.0-1.jar,mod
 Chameleon,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/Chameleon-1.11-3.0.2.jar,mod
 Chat Encryption,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/ChatEncryption-1.0.jar,mod
 Chunk Animator,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/ChunkAnimator-MC1.11-1.2.jar,mod
@@ -24,10 +22,8 @@ Lapis Stays,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/Enc
 Extra Bit,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/ExtraBitManipulation-1.11.2-3.0.4.jar,mod
 FTB Lib,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/FTBLib-1.1x-3.6.5.jar,mod
 FTB Utilities,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/FTBUtilities-1.1x-3.6.5.jar,mod
-Fragile,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/Fragile%20Glass%20and%20Thin%20Ice%201.11-1.8.1.jar,mod
 Borderless Fullscreen,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/FullscreenWindowed-1.10.2-1.5.0.jar,mod
 Graves,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/GraveStone%20Mod%201.7.2.jar,mod
-IAS,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/InGameAccountSwitcher-Forge-1.11.2-7.0.1.jar,mod
 Inventory Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/InventoryTweaks-1.62-dev-75.jar,mod
 IvToolkit,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/IvToolkit-1.3.3.jar,mod
 Lunatrius Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/LunatriusCore-1.11-1.1.2.39-universal.jar,mod
@@ -37,8 +33,6 @@ Neat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/Neat%201.4
 Optifine,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/OptiFine_1.11.2_HD_U_B8.jar,mod
 Pam's Seeds,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/Pam's%20Get%20all%20the%20Seeds!%201.11a.jar,mod
 Pam's HarvestCraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/Pam's%20HarvestCraft%201.11.2b.jar,mod
-Persistent Bits,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/PersistentBits-1.11-1.0.6.jar,mod
-Pet Bats,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/PetBat-1.11.2.jar,mod
 Quality Order,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/QualityOrder(0.11)-1.11.2.jar,mod
 Quark,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/Quark-r1.2-92.jar,mod
 Shulker Box,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/ShulkerBox%201.1.0.jar,mod
