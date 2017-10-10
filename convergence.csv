@@ -18,6 +18,7 @@ Chat Encryption,1,https://raw.githubusercontent.com/Dalethium/Convergence/master
 Chisels and Bits,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/chiselsandbits-13.14.jar,mod
 Chunk Animator,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/ChunkAnimator-MC1.11-1.2.jar,mod
 Compat,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/compatlayer-1.11.2-0.2.9.jar,mod
+Config,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config.zip,resources
 Convergence Pack,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/Convergence%20Pack.zip,resources
 Convergence,14,https://raw.githubusercontent.com/Dalethium/Convergence/master/Convergence-1.6.4-1-SEMISTABLE.jar,mod
 Cosmetic Armor,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/CosmeticArmorReworked-1.11.2-v1a.jar,mod
@@ -48,7 +49,6 @@ JoyPad,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/JoypadMo
 Lapis Stays,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/EnchantingTable-1.11-1.1.2.jar,mod
 Level Up,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/Level%20Up!%202-1.0.6-1.11.2.jar,mod
 Lunatrius Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/LunatriusCore-1.11-1.1.2.39-universal.jar,mod
-Menu,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/menu.zip,resources
 Mnmutils,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/lib-mnmutils-1.2.6-mc1.11.2.litemod,mod
 Music,1,https://onedrive.live.com/download?cid=C9CBE210ECA84415&resid=C9CBE210ECA84415%21111&authkey=AAn49mG-HZU80z8,resources
 NBT Edit,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/NBTEdit-0.5.jar,mod
