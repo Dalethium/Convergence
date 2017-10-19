@@ -20,10 +20,12 @@ Chunk Animator,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 CodeChickenLib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/CodeChickenLib-1.11.2-3.0.0.298-universal.jar,mod
 Compat,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/compatlayer-1.11.2-0.2.9.jar,mod
 Config,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config.zip,resources
+Controlling,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/Controlling-2.0.5.jar,mod
 Convergence Matmos Pack,1,https://github.com/WeNeedCoffee/Convergence-Matmos-Pack/releases/download/v1.0/Convergence-Matmos-Pack.zip,resources
 Convergence Presence Pack,1,https://github.com/WeNeedCoffee/Convergence-Presence-Pack/releases/download/v1.0/Convergence-Presence-Pack.zip,resources
 Convergence Resource Pack,1,https://github.com/WeNeedCoffee/Convergence-Resource-Pack/releases/download/v1.0/Convergence-Resource-Pack.zip,resources
 Convergence,14,https://raw.githubusercontent.com/Dalethium/Convergence/master/Convergence-1.6.4-1-SEMISTABLE.jar,mod
+CookingForBlockheads,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/CookingForBlockheads_1.11.2-5.3.27.jar,mod
 Cosmetic Armor,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/CosmeticArmorReworked-1.11.2-v1a.jar,mod
 CraftStudioAPI,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/CraftStudioAPI-universal-0.3.0.86-mc1.11.2-beta.jar,mod
 Crayfish Furniture Mod,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/furniture-4.1.3-1.11.2.jar,mod
@@ -40,6 +42,7 @@ FTB Lib,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/FTBLib-
 FTB Utilities,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/FTBUtilities-1.1x-3.6.5.jar,mod
 Graves,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/gravestone-1.7.4_.jar,mod
 InGameAccountSwitcher,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/InGameAccountSwitcher-Forge-1.11-7.0.3.jar,mod
+Hopper Ducts,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/hopperducts-mc1.11.2-1.4.9.2.jar,mod
 Inventory Pets,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/inventorypets-1.11.2-1.4.9.9.jar,mod
 Inventory Tweaks,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/InventoryTweaks-1.62.jar,mod
 IvToolkit,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/IvToolkit-1.3.3.jar,mod
