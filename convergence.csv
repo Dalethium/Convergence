@@ -17,9 +17,10 @@ Blocklings,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods
 Blood Magic,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BloodMagic-1.11-2.1.11-80.jar,mod
 Borderless Fullscreen,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/FullscreenWindowed-1.10.2-1.5.1.jar,mod
 Born In A Barn,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Born+In+A+Barn+V1.8-1.12-1.0.jar,mod
+Chicken Chunks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ChickenChunks-1.11.2-2.3.1.68-universal.jar,mod
 Chisels and Bits,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/chiselsandbits-13.16.jar,mod
 Chunk Animator,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/ChunkAnimator-MC1.11-1.2.jar,mod
-CodeChickenLib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CodeChickenLib-1.11.2-3.0.0.298-universal.jar,mod
+Code Chicken Lib,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CodeChickenLib-1.11.2-3.0.0.328-universal.jar,mod
 Compact Machines,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/cm2-1.11.2-2.0.1-b142.jar,mod
 Compat,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/compatlayer-1.11.2-0.3.1.jar,mod
 Config,9,https://raw.githubusercontent.com/Dalethium/Convergence/master/resources/config.zip,resources
@@ -59,7 +60,7 @@ JEI Block Drops,1,https://raw.githubusercontent.com/Dalethium/Convergence/master
 JEI Integration,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/jeiintegration_1.11.2-1.2.0.21.jar,mod
 JEPB,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/jepb-1.11.2-1.2.jar,mod
 JER,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/JustEnoughResources-1.11.2-0.6.6.12.jar,mod
-Journey Map,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/journeymap-1.11.2-5.5.2.jar,mod
+Journey Map,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/journeymap-1.11.2-5.5.2.jar,mod
 JoyPad,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/JoypadMod-1.11-13.19.1.2188.jar,mod
 Just A Few Fish,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/JustAFewFish-1.6.1_for_1.11.2.jar,mod
 Lapis Stays,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnchantingTable-1.11-1.1.2.jar,mod
