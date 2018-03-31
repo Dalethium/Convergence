@@ -6,6 +6,7 @@ Baby Mobs,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/
 Bailies Dailies,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/dailies-1.11.2-6.jar,mod
 Bed Bugs,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BedBugs-1.11.2-1.1.7.jar,mod
 Better Achievments,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterAchievements-1.11.2-0.4.4.21.jar,mod
+Better Foliage,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterFoliage-MC1.11.2-2.1.10.jar,mod
 Better FPS,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterFps-1.4.5.jar,mod
 Better Questing,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterQuesting-2.4.235.jar,mod
 Better Sprinting,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterSprinting%20%20MC-1.11.2%20%20v1.1.9.jar,mod
@@ -23,11 +24,9 @@ Chunk Animator,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 Code Chicken Lib,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CodeChickenLib-1.11.2-3.0.0.328-universal.jar,mod
 Compact Machines,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/cm2-1.11.2-2.0.1-b142.jar,mod
 Compat,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/compatlayer-1.11.2-0.3.1.jar,mod
+Compat Pack,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/resources/Compat-Pack.zip,resources
 Config,9,https://raw.githubusercontent.com/Dalethium/Convergence/master/resources/config.zip,resources
 Controlling,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Controlling-2.0.5.jar,mod
-Convergence,14,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Convergence-1.6.4-1-SEMISTABLE.jar,mod
-Convergence Matmos Pack,1,https://github.com/WeNeedCoffee/Convergence-Matmos-Pack/releases/download/v1.0/Convergence-Matmos-Pack.zip,resources
-Convergence Presence Pack,1,https://github.com/WeNeedCoffee/Convergence-Presence-Pack/releases/download/v1.0/Convergence-Presence-Pack.zip,resources
 Convergence Resource Pack,2,https://github.com/WeNeedCoffee/Convergence-Resource-Pack/releases/download/v1.1/Convergence-Resource-Pack.zip,resources
 CookingForBlockheads,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CookingForBlockheads_1.11.2-5.3.27.jar,mod
 Cosmetic Armor,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CosmeticArmorReworked-1.11.2-v1a.jar,mod
@@ -37,6 +36,7 @@ Crayfish Furniture Mod,2,https://raw.githubusercontent.com/Dalethium/Convergence
 Custom Achievements,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/customachievements-1.11.2-0.3.3.jar,mod
 Custom Main Menu,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/CustomMainMenu-MC1.11.2-2.0.5.jar,mod
 Dirt2Path,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/dirt2path-1.6.1.jar,mod
+Dynamic Surroundings,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/DynamicSurroundings-1.11.2-3.4.9.10.jar,mod
 Eat The Eggs,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EM3R50N-EatTheEggs-1.11.2-13.20.0.2201.jar,mod
 Ender Storage,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderStorage-1.11.2-2.3.1.116-universal.jar,mod
 Extra Bit,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ExtraBitManipulation-1.11.2-3.2.1.jar,mod
@@ -101,6 +101,7 @@ The Beneath,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 Tinkers Construct,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TConstruct-1.11.2-2.7.1.34.jar,mod
 Tinker Tool Leveling,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TinkerToolLeveling-1.11.2-1.0.1.jar,mod
 Tiny Progressions,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tinyprogressions-1.11.2-2.2.4.jar,mod
+Tough As Nails,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ToughAsNails-1.11.2-2.1.0C-universal.jar,mod
 Tumble Weed,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tumbleweed-1.11-0.4.4.jar,mod
 Villager Market,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/villagermarket-0.2-HF.jar,mod
 Waddles,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Waddles-1.11.2-0.5.5.jar,mod
