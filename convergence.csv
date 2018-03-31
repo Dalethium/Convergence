@@ -12,7 +12,6 @@ Better Sprinting,2,https://raw.githubusercontent.com/Dalethium/Convergence/maste
 BiblioCraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiblioCraft%5Bv2.3.3%5D%5BMC1.11.2%5D.jar,mod
 BiblioWoods,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiblioWoods%5BBiomesOPlenty%5D%5Bv2.0%5D%5BMC1.11.2%5D.jar,mod
 Biomes O Plenty,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiomesOPlenty-1.11.2-6.2.0.2254-universal.jar,mod
-Block Armor,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BlockArmor-1.11.2-2.4.11.jar,mod
 Blocklings,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Blocklings+4.1.11+-+1.11.2.jar,mod
 Blood Magic,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BloodMagic-1.11-2.1.11-80.jar,mod
 Borderless Fullscreen,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/FullscreenWindowed-1.10.2-1.5.1.jar,mod
@@ -23,7 +22,7 @@ Chunk Animator,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 Code Chicken Lib,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CodeChickenLib-1.11.2-3.0.0.328-universal.jar,mod
 Compact Machines,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/cm2-1.11.2-2.0.1-b142.jar,mod
 Compat,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/compatlayer-1.11.2-0.3.1.jar,mod
-Compat Pack,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/resources/Compat-Pack.zip,resources
+Compat Pack,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/resources/Compat-Pack.zip,resources
 Config,10,https://raw.githubusercontent.com/Dalethium/Convergence/master/resources/config.zip,resources
 Controlling,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Controlling-2.0.5.jar,mod
 Convergence Resource Pack,2,https://github.com/WeNeedCoffee/Convergence-Resource-Pack/releases/download/v1.1/Convergence-Resource-Pack.zip,resources
@@ -63,15 +62,12 @@ Journey Map,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 JoyPad,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/JoypadMod-1.11-13.19.1.2188.jar,mod
 Just A Few Fish,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/JustAFewFish-1.6.1_for_1.11.2.jar,mod
 Lapis Stays,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnchantingTable-1.11-1.1.2.jar,mod
-Level Up,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Level+Up!+2-1.0.8-1.11.2.jar,mod
 Little Things,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/itlt-1.11-1.0.0.jar,mod
 Lunatrius Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/LunatriusCore-1.11-1.1.2.39-universal.jar,mod
 Mantle,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Mantle-1.11.2-1.2.0.26.jar,mod
 Mnmutils,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/lib-mnmutils-1.2.6-mc1.11.2.litemod,mod
-Music,1,https://onedrive.live.com/download?cid=C9CBE210ECA84415&resid=C9CBE210ECA84415%21111&authkey=AAn49mG-HZU80z8,resources
 NBT Edit,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/NBTEdit-0.5.jar,mod
 Neat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Neat%201.4-13.jar,mod
-Ocean Floor,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OceanFloor-1.11-1.0.1.jar,mod
 Open Blocks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenBlocks-1.11.2-1.7.4.jar,mod
 Open Computers,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenComputers-MC1.11.2-1.7.2.97.jar,mod
 Open Mods,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenModsLib-1.11.2-0.11.4.jar,mod
@@ -79,24 +75,18 @@ Open Radio,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods
 Optifine,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/OptiFine_1.11.2_HD_U_C7.jar,mod
 Pam's HarvestCraft,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Pam%27s%20HarvestCraft%201.11.2h.jar,mod
 Pam's Seeds,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Pam's%20Get%20all%20the%20Seeds!%201.11a.jar,mod
-Ping,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/ping-1.9-3.0.9.jar,mod
 Placeable Items,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/placeableitems-3.0.4.1.jar,mod
 Quark,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Quark-r1.2-93b.jar,mod
-Reborn Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RebornCore-1.11.2-2.16.1.115-universal.jar,mod
 Refined Relocation,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RefinedRelocation-mc1.11.2-3.1.15.jar,mod
 Reliquary,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Reliquary-1.11.2-1.3.4.678.jar,mod
 Reptiles,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/reptilemod-1.11.2-3.6.2-68.jar,mod
-Resources,2,https://onedrive.live.com/download?cid=44CB7001EF66E47B&resid=44CB7001EF66E47B%2181080&authkey=AHETricR5KYdkPU,resources
 Roots,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/roots-2-0.025.jar,mod
 Rustic,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/rustic-0.3.13.jar,mod
 Secret Rooms,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/secretroomsmod-1.11.2-5.1.9.jar,mod
 Shulker Box,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/shulkerbox-1.1.2.jar,mod
-Simple Void World,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Simple-Void-World-1.11-1.1.0.4-universal.jar,mod
 Stackie,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Stackie-1.11-1.6.0.45-universal.jar,mod
 Standard Expansion,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/StandardExpansion-2.4.132.jar,mod
-Swing Through Grass,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/stg-1.11.2-1.1.2.jar,mod
 TabbyChat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/mod-tabbychat-2-2.1.6-mc1.11.2.litemod,mod
-The Beneath,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/The+Beneath-1.11.2-1.3.0.jar,mod
 Tinkers Construct,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TConstruct-1.11.2-2.7.1.34.jar,mod
 Tinker Tool Leveling,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TinkerToolLeveling-1.11.2-1.0.1.jar,mod
 Tiny Progressions,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tinyprogressions-1.11.2-2.2.4.jar,mod
@@ -107,4 +97,3 @@ Waddles,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/co
 Waystones,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Waystones_1.11.2-3.0.17.jar,mod
 Wearable Backpacks,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/WearableBackpacks-1.11.2-2.5.0.jar,mod
 Web Shooter,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/webshooter-1.11-1.0.2.jar,mod
-Wolf Armor,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/wolfarmor-1.3.3.6.jar,mod
