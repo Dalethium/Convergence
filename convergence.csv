@@ -7,7 +7,7 @@ Avaritia,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/c
 Avaritia Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/AvaritiaTweaks-1.12.2-1.1.jar,mod
 Baby Mobs,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BabyMobs-1.12-1.5.5.jar,mod
 Bailys Dailies,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/dailies-1.12.2-6.jar,mod
-Better Advancements,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterAdvancements-1.12.2-0.0.6.24.jar,mod
+Better Advancements,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterAdvancements-1.12.2-0.0.6.24.jar,mod
 Better FPS,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterFps-1.4.8.jar,mod
 Better Sprinting,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterSprinting++MC-1.12.2++v2.1.1.jar,mod
 BiblioCraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiblioCraft[v2.4.3][MC1.12.0].jar,mod
@@ -22,6 +22,7 @@ Chunk Animator,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 Client Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/ClientTweaks_1.12.2-3.1.6.jar,mod
 Code Chicken Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CodeChickenLib-1.12.2-3.1.6.339-universal.jar,mod
 CoFH Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CoFHCore-1.12.2-4.3.10.5-universal.jar,mod
+CoFH World,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CoFHWorld-1.12.2-1.1.1.12-universal.jar,mod
 Compact Machines,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/compactmachines3-1.12.2-3.0.7-b197.jar,mod
 Controlling,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Controlling-3.0.6.jar,mod
 Convergence Resource Pack,1,https://github.com/WeNeedCoffee/Convergence-Resource-Pack/releases/download/v1.1/Convergence-Resource-Pack.zip,resources
@@ -36,7 +37,7 @@ Custom Main Menu,1,https://raw.githubusercontent.com/Dalethium/Convergence/maste
 Dirt2Path,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/dirt2path-1.7.0.jar,mod
 Doggy Talents,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/DoggyTalents-1.12-1.14.2.314-universal.jar,mod
 Dynamic Surroundings,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/DynamicSurroundings-1.12.2-3.4.9.10.jar,mod
-Dynamic Trees,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/DynamicTrees-1.12.2-0.7.4.jar,mod
+Dynamic Trees,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/DynamicTrees-1.12.2-0.7.5c.jar,mod
 Dynamic Trees BOP,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/dynamictreesbop-beta+2.jar,mod
 Earthworks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Earthworks-1.12-1.3.6.jar,mod
 Elec Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ElecCore-1.12.2-1.8.434.jar,mod
@@ -91,9 +92,14 @@ Plustic,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/co
 Quark,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Quark-r1.4-123.jar,mod
 Random Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/randomtweaks-1.12.2-1.17.0.1.jar,mod
 Reconstructor,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/reconstructor-2.11a.jar,mod
+Redstone Arsenal,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RedstoneArsenal-1.12.2-2.3.10.4-universal.jar,mod
+Redstone Flux,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RedstoneFlux-1.12-2.0.1.2-universal.jar,mod
+Redstone Flux Arsenal,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RedstoneFluxArsenal-1.12-1.2.1.jar,mod
 Refined Relocation,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RefinedRelocation_1.12.2-4.2.20.jar,mod
 Reliquary,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Reliquary-1.12.2-1.3.4.757.jar,mod
 Reptiles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/reptilemod-1.12.2-3.8.4-82.jar,mod
+RF Tools,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/rftools-1.12-7.32.jar,mod
+RF Tools Power,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/rftoolspower-1.12-0.1.1.jar,mod
 Roots,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/roots-2-0.104.jar,mod
 Rope Bridge,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ropebridge-1.12-2.0.7.jar,mod
 Rustic,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/rustic-1.0.3.jar,mod
