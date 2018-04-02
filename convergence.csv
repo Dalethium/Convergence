@@ -12,7 +12,7 @@ Avaritia Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master
 Baby Mobs,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BabyMobs-1.12-1.5.5.jar,mod
 Bailys Dailies,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/dailies-1.12.2-6.jar,mod
 Baubles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Baubles-1.12-1.5.2.jar,mod
-BdLib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/bdlib-1.14.3.12-mc1.12.2.jar,mod
+BdLib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bdlib-1.14.3.12-mc1.12.2.jar,mod
 Better Advancements,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterAdvancements-1.12.2-0.0.6.24.jar,mod
 Better FPS,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterFps-1.4.8.jar,mod
 Better Sprinting,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterSprinting++MC-1.12.2++v2.1.1.jar,mod
@@ -21,7 +21,7 @@ Biomes O Plenty,1,https://raw.githubusercontent.com/Dalethium/Convergence/master
 Biomes O Plenty Tools,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/boptools-0.0.2.1.jar,mod
 Blood Magic,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BloodMagic-1.12.2-2.2.7-90.jar,mod
 Borderless Fullscreen,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/FullscreenWindowed-1.12-1.6.0.jar,mod
-Botania,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Botania+r1.10-353.jar,mod
+Botania,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Botania+r1.10-353.jar,mod
 Chicken Chunks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ChickenChunks-1.12.2-2.4.1.71-universal.jar,mod
 Chisel,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Chisel-MC1.12.2-0.2.0.31.jar,mod
 Chisels and Bits,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/chiselsandbits-14.16.jar,mod
@@ -91,7 +91,7 @@ Mekanism Generators,1,https://raw.githubusercontent.com/Dalethium/Convergence/ma
 Mekanism Tools,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MekanismTools-1.12.2-9.4.3.330.jar,mod
 Mine Colonies,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/minecolonies-universal-1.12.2-0.8.7582.jar,mod
 Morph-o-Tool,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Morph-o-Tool-1.2-16.jar,mod
-Mouse Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MouseTweaks-2.8-mc1.12.1.jar,mod
+Mouse Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/MouseTweaks-2.8-mc1.12.1.jar,mod
 Natura,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/natura-1.12.2-4.3.2.42.jar,mod
 NBT Edit,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/NBTEdit-0.7.jar,mod
 Neat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Neat+1.4-15.jar,mod
