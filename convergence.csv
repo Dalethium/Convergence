@@ -14,7 +14,6 @@ Bailys Dailies,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 Baubles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Baubles-1.12-1.5.2.jar,mod
 BdLib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bdlib-1.14.3.12-mc1.12.2.jar,mod
 Better Advancements,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterAdvancements-1.12.2-0.0.6.24.jar,mod
-Better Chat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterChat-1.12.1-3r.jar,mod
 Better FPS,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterFps-1.4.8.jar,mod
 Better Sprinting,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterSprinting++MC-1.12.2++v2.1.1.jar,mod
 BiblioCraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiblioCraft[v2.4.3][MC1.12.0].jar,mod
@@ -68,7 +67,6 @@ Guide API,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/
 FTB Guides,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FTBGuides-1.0.0.12.jar,mod
 FTB Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FTBLib-5.0.0.14.jar,mod
 FTB Utilities,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FTBUtilities-5.0.0.11.jar,mod
-Hammer Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/HammerCore-1.12.2-1.9.7.0.jar,mod
 Hopper Ducts,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/hopperducts-mc1.12-1.5.jar,mod
 Hwyla,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Hwyla-1.8.24-B39_1.12.jar,mod
 Industrial Craft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/industrialcraft-2-2.8.73-ex112.jar,mod
@@ -136,6 +134,7 @@ Travel Hut,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods
 Tumble Weed,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tumbleweed-1.11-0.4.4.jar,mod
 UniDict,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/UniDict-1.12.2-2.4c.jar,mod
 Villager Market,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/villager-market-1.12.2-1.0.0.jar,mod
+Voice Chat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/VoiceChat-1.12-1.0.jar,mod
 Waddles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Waddles-1.12.2-0.5.6.jar,mod
 Wanion Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/WanionLib-1.12.2-1.5.jar,mod
 Waystones,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Waystones_1.12.2-4.0.33.jar,mod
