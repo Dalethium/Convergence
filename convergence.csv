@@ -1,6 +1,5 @@
 Actually Additions,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ActuallyAdditions-1.12.2-r133.jar,mod
 Actually Baubles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ActuallyBaubles-1.12-1.1.jar,mod
-Actually Computers,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/actuallycomputers-2.1.0.jar,mod
 AE2 Stuff,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ae2stuff-0.7.0.4-mc1.12.2.jar,mod
 Akashic Tome,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/AkashicTome-1.2-10.jar,mod
 Angel Ring To Bauble,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/angelRingToBauble-1.12-0.3.1.50+d4e654e.jar,mod
@@ -85,7 +84,6 @@ Inventory Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/maste
 Iron Chests,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ironchest-1.12.2-7.0.40.824.jar,mod
 JEHC,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/JEHC-1.12.2-1.5.0.0.jar,mod
 JEI,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/jei_1.12.2-4.8.5.159.jar,mod
-JEI Block Drops,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/blockdrops-1.12.2-1.4.0.jar,mod
 JEI Integration,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/jeiintegration_1.12.2-1.5.1.36.jar,mod
 JEPB,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/jepb-1.12-1.2.1.jar,mod
 JER,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/JustEnoughResources-1.12.2-0.8.5.27.jar,mod
@@ -99,13 +97,12 @@ Mantle,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/com
 Mekanism,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Mekanism-1.12.2-9.4.3.330.jar,mod
 Mekanism Generators,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MekanismGenerators-1.12.2-9.4.3.330.jar,mod
 Mekanism Tools,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MekanismTools-1.12.2-9.4.3.330.jar,mod
-Mine Colonies,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/minecolonies-universal-1.12.2-0.8.7582.jar,mod
+Mine Colonies,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/minecolonies-universal-1.12.2-0.8.8008.jar,mod
 Morph-o-Tool,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Morph-o-Tool-1.2-16.jar,mod
 Natura,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/natura-1.12.2-4.3.2.42.jar,mod
 NBT Edit,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/NBTEdit-0.7.jar,mod
 Neat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Neat+1.4-15.jar,mod
 Open Blocks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenBlocks-1.12.2-1.7.6.jar,mod
-Open Computers,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenComputers-MC1.12.2-1.7.2.67.jar,mod
 Open Mods,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenModsLib-1.12.2-0.11.5.jar,mod
 Optifine,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/OptiFine_1.12.2_HD_U_D1.jar,mod
 P455w0rds Library,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/p455w0rdslib-1.12-2.0.29.jar,mod
@@ -137,6 +134,8 @@ Stackie,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/co
 Statues,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/statues-1.12.X-0.8.1.jar,mod
 Sublib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/subcommonlib-sublib-1.12.2-1.2.0.4.jar,mod
 Tatw,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Tatw-1.12.2-1.0.1.2.jar,mod
+The Betweenlands,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TheBetweenlands-3.3.6-universal.jar,mod
+Twilight Forest,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/twilightforest-1.12.2-3.6.345-universal.jar,mod
 Tesla Core Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tesla-core-lib-1.12-1.0.13.jar,mod
 Thermal Dynamics,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalDynamics-1.12.2-2.3.10.4-universal.jar,mod
 Thermal Expansion,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalExpansion-1.12.2-5.3.10.15-universal.jar,mod
