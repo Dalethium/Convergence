@@ -61,7 +61,7 @@ CraftStudioAPI,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 Craft Tweaker,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CraftTweaker2-1.12-4.1.6.jar,mod
 Crayfish Furniture Mod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/furniture-4.2.0-1.12.2.jar,mod
 Csoki Craft Util,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CsokiCraftUtil-1.3.6.jar,mod
-CTM,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CTM-MC1.12-0.2.3.12.jar,mod
+CTM,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/CTM-MC1.12-0.2.3.12.jar,mod
 Custom Cursor Mod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/CustomCursorMod-1.2.1.jar,mod
 Custom Main Menu,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/CustomMainMenu-MC1.12.2-2.0.8.jar	,mod
 Cyclops Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CyclopsCore-1.12.2-0.11.5.jar,mod
@@ -151,7 +151,6 @@ Peripherals Plus One,1,https://raw.githubusercontent.com/Dalethium/Convergence/m
 Pet Buddy,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/petbuddy-petbuddy-1.12.2-2.4.0.1.jar,mod
 Placeable Items,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/placeableitems-3.3.jar,mod
 Plethora,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/plethora-1.12.2-1.1.11.jar,mod
-Plustic,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/plustic-6.4.0.0.jar,mod
 Portal Gun,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/PortalGun-1.12.2-7.0.2.jar,mod
 Powered Thingies,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/powered-thingies-1.12.2-1.0.14.jar,mod
 Prestige,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Prestige-1.12.2-1.0.7.jar,mod
@@ -195,8 +194,6 @@ Thermal Dynamics,2,https://raw.githubusercontent.com/Dalethium/Convergence/maste
 Thermal Expansion,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalExpansion-1.12.2-5.3.11.13-universal.jar,mod
 Thermal Foundation,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalFoundation-1.12.2-2.3.11.8-universal.jar,mod
 Thermal Innovation,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalInnovation-1.12.2-0.1.0.3-universal.jar,mod
-Tinkers Construct,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TConstruct-1.12.2-2.9.1.65.jar,mod
-Tinker Tool Leveling,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TinkerToolLeveling-1.12-1.0.3.jar,mod
 Tiny Progressions,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tinyprogressions-1.12.2-3.3.24-Release.jar,mod
 Totem Expansion,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/totemexpansion-1.1.2-1.12.2.jar,mod
 Travel Hut,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/travelhut-3.0.1.jar,mod
