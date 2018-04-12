@@ -35,11 +35,10 @@ Botania,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/co
 Bow Infinity Fix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BowInfinityFix-1.11.x-1.12.x-rv5.jar,mod
 Bread Crumb Trail,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/breadcrumbtrail-1.0.jar,mod
 Cannibalism,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Cannibalism-5.1.2-1.12.2.jar,mod
-Charset Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Charset-Lib-0.5.0.223.jar,mod
-Charset Tablet,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Charset-Tablet-0.5.0.208.jar,mod
 Chicken Chunks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ChickenChunks-1.12.2-2.4.1.71-universal.jar,mod
 Chisel,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Chisel-MC1.12.2-0.2.0.31.jar,mod
-Chisels and Bits,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/chiselsandbits-14.16.jar,mod
+EDX Multipart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EDX-Multipart-1.1.1.jar,mod
+MC MultiPart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MCMultiPart-2.4.1.jar,mod
 Chunk Animator,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/ChunkAnimator-MC1.12-1.2.jar,mod
 Client Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/ClientTweaks_1.12.2-3.1.6.jar,mod
 Code Chicken Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CodeChickenLib-1.12.2-3.1.6.339-universal.jar,mod
@@ -56,7 +55,6 @@ CookingForBlockheads,1,https://raw.githubusercontent.com/Dalethium/Convergence/m
 Coro Util,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/coroutil-1.12.1-1.1.24.jar,mod
 Corpse Complex,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/corpsecomplex-1.12.2-1.0.2.1.jar,mod
 Cosmetic Armor,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CosmeticArmorReworked-1.12.2-v1.jar,mod
-Crafting EX,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CraftingEX_1.12-v1.2.0.jar,mod
 CraftStudioAPI,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CraftStudio-1.0.0.93-mc1.12-alpha.jar,mod
 Craft Tweaker,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CraftTweaker2-1.12-4.1.6.jar,mod
 Crayfish Furniture Mod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/furniture-4.2.0-1.12.2.jar,mod
@@ -67,7 +65,7 @@ Custom Main Menu,1,https://raw.githubusercontent.com/Dalethium/Convergence/maste
 Cyclops Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CyclopsCore-1.12.2-0.11.5.jar,mod
 Dirt2Path,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/dirt2path-1.7.0.jar,mod
 Disenchanter,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/disenchanter-[1.12]1.6.jar,mod
-Doggy Talents,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/DoggyTalents-1.12-1.14.2.314-universal.jar,mod
+Sophisticated Wolves,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/SophisticatedWolves-1.12.2-3.13.2.jar,mod
 Dynamic Surroundings,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/DynamicSurroundings-1.12.2-3.4.9.11.jar,mod
 Dynamic Trees,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/DynamicTrees-1.12.2-0.7.5c.jar,mod
 Dynamic Trees BOP,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/dynamictreesbop-beta+2.jar,mod
@@ -77,7 +75,6 @@ Ender Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods
 Ender IO,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-1.12.2-5.0.20.jar,mod
 Ender Storage,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderStorage-1.12.2-2.4.2.126-universal.jar,mod
 Everlasting Abilities,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EverlastingAbilities-1.12.2-1.3.15.jar,mod
-Extra Bit,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ExtraBitManipulation-1.12-3.2.1.jar,mod
 Extra Cells,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ExtraCells-1.12.2-2.5.11a48.jar,mod
 Extra Planets,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ExtraPlanets-1.12.2-0.3.2.jar,mod
 Extra Utils 2,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/extrautils2-1.12-1.7.6.jar,mod
@@ -103,7 +100,6 @@ Impart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/com
 Industrial Craft,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/industrialcraft-2-2.8.74-ex112.jar,mod
 Industrial Expansion,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/IndustrialExpansion-1.2.5.jar,mod
 Industrial Foregoing,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/industrialforegoing-1.12.2-1.8.7-132.jar,mod
-In Game Wiki,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/IGW-Mod-1.12.2-1.4.3-14-universal.jar,mod
 Inspirations,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Inspirations-1.12.2-0.1.3.jar,mod
 Inventory Pets,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/inventorypets-1.12-1.4.9.9b.jar,mod
 Inventory Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/InventoryTweaks-1.63.jar,mod
@@ -136,7 +132,6 @@ Mod Lister,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods
 More Bees,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/morebees-1.12.2-1.4.4.jar,mod
 Morph-o-Tool,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Morph-o-Tool-1.2-16.jar,mod
 Natura,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/natura-1.12.2-4.3.2.42.jar,mod
-NBT Edit,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/NBTEdit-0.7.jar,mod
 Neat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Neat+1.4-15.jar,mod
 NEID,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/NotEnoughIDs-1.5.4.2.jar,mod
 Netherending Ores,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Netherending-Ores-1.12.2-1.1.1.jar,mod
