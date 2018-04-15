@@ -37,7 +37,6 @@ Bookshelf,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/
 Borderless Fullscreen,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/FullscreenWindowed-1.12-1.6.0.jar,mod
 Botania,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Botania+r1.10-353.jar,mod
 Bow Infinity Fix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BowInfinityFix-1.11.x-1.12.x-rv5.jar,mod
-Bread Crumb Trail,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/breadcrumbtrail-1.0.jar,mod
 Bush Master Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bush-master-core-1.12.2-1.0.2.jar,mod
 Cannibalism,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Cannibalism-5.1.2-1.12.2.jar,mod
 Chameleon,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Chameleon-1.12-4.1.3.jar,mod
@@ -90,6 +89,7 @@ Extra Planets,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/m
 Extra Rails,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ExtraRails-1.12-1.3.0.jar,mod
 Extra Utils 2,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/extrautils2-1.12-1.7.6.jar,mod
 Fancy Block Particles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/FancyBlockParticles-1.12.x-2.3.9.jar,mod
+Feeder Helmet,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FeederHelmet-1.0.0.jar,mod
 Foam Fix,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/foamfix-0.9.7-1.12.2-anarchy.jar,mod
 Forestry,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/forestry_1.12.2-5.8.0.266.jar,mod
 Forgelin,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Forgelin-1.6.0.jar,mod
@@ -145,7 +145,7 @@ Mekanism,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/c
 Mekanism Generators,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MekanismGenerators-1.12.2-9.4.3.330.jar,mod
 Mekanism Tools,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MekanismTools-1.12.2-9.4.3.330.jar,mod
 MicdoodleCore,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MicdoodleCore-1.12.2-4.0.1.172.jar,mod
-Mine Colonies,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/minecolonies-universal-1.12.2-0.8.8095.jar,mod
+Mine Colonies,8,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/minecolonies-universal-1.12.2-0.8.8117.jar,mod
 Mine Tweaker Recipe Maker,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar,mod
 MJR Legends Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MJRLegendsLib-1.12.2-1.1.3.jar,mod
 Mod Lister,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/ModLister-1.12.2-3.2.4.jar,mod
@@ -174,11 +174,10 @@ Plants,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/com
 Plethora,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/plethora-1.12.2-1.1.11.jar,mod
 Portal Gun,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/PortalGun-1.12.2-7.0.2.jar,mod
 Powered Thingies,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/powered-thingies-1.12.2-1.0.14.jar,mod
-Prestige,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Prestige-1.12.2-1.0.8.jar,mod
+Prestige,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Prestige-1.12.2-1.0.9.jar,mod
 Pretty Beaches,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/PrettyBeaches_1.12.2-1.0.3.jar,mod
 Progressive Bosses,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ProgressiveBosses-1.2.2-mc1.12.x.jar,mod
 Quark,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Quark-r1.4-123.jar,mod
-Rabby Chat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/mod-tabbychat-2.3.4-mc1.12.2.litemod,mod
 Random Patches,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/randompatches-1.12.2-1.0.1.0.jar,mod
 Random Things,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RandomThings-MC1.12.2-4.1.5.jar,mod
 Random Tweaks,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/randomtweaks-1.12.2-1.18.0.1.jar,mod
@@ -208,9 +207,10 @@ Stackie,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/co
 Statues,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/statues-1.12.X-0.8.1.jar,mod
 Sublib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/subcommonlib-sublib-1.12.2-1.2.0.4.jar,mod
 Survival Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/SurvivalTweaks-5.1.0-1.12.2.jar,mod
-Sync,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Sync-1.12.2-7.0.2.jar,mod
+Tabby Chat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/mod-tabbychat-2.3.4-mc1.12.2.litemod,mod
 Tatw,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Tatw-1.12.2-1.0.1.2.jar,mod
 Tesla Core Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tesla-core-lib-1.12-1.0.13.jar,mod
+TexFix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/TexFix+V-1.12-4.0.jar,mod
 The Betweenlands,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TheBetweenlands-3.3.7-universal.jar,mod
 The Cactus Mod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/The+Cactus+Mod-1.1.jar,mod
 The Framework,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TheFramework-1.12.2-1.0.1-build-T23.jar,mod
