@@ -26,9 +26,10 @@ Better Mob Griefing Gamerule,1,https://raw.githubusercontent.com/Dalethium/Conve
 Better Placement,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterPlacement-1.0.0-1.jar,mod
 Better Records,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterRecords-1.12.2-1.5.5.jar,mod
 Better Sprinting,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterSprinting++MC-1.12.2++v2.1.1.jar,mod
+Better Underground,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/betterunderground-1.1.2.jar,mod
 BiblioCraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiblioCraft[v2.4.3][MC1.12.0].jar,mod
 Bibliotheca,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bibliotheca-1.2.2-1.12.2.jar,mod
-Binnie Mods,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/binnie-mods-1.12.2-2.5.0.161.jar,mod
+Binnie Mods,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/binnie-mods-1.12.2-2.5.0.162.jar,mod
 Biomes O Plenty,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiomesOPlenty-1.12.2-7.0.1.2355-universal.jar,mod
 Biomes O Plenty Tools,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/boptools-0.0.2.1.jar,mod
 Blood Magic,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BloodMagic-1.12.2-2.2.8-91.jar,mod
@@ -74,6 +75,7 @@ Dynamic Trees BOP,2,https://raw.githubusercontent.com/Dalethium/Convergence/mast
 Earthworks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Earthworks-1.12-1.3.6.jar,mod
 EDX Multipart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EDX-Multipart-1.1.1.jar,mod
 Elec Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ElecCore-1.12.2-1.8.434.jar,mod
+Enchantment Descriptions,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/EnchantmentDescriptions-1.12.2-1.1.8.jar,mod
 Enchiridion,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Enchiridion-1.12.2-3.3.3.jar,mod
 Ender Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderCore-1.12.2-0.5.18.jar,mod
 Ender IO,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-1.12.2-5.0.21.jar,mod
@@ -88,7 +90,7 @@ Extra Rails,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 Extra Utils 2,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/extrautils2-1.12-1.7.6.jar,mod
 Fancy Block Particles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/FancyBlockParticles-1.12.x-2.3.9.jar,mod
 Foam Fix,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/foamfix-0.9.7-1.12.2-anarchy.jar,mod
-Forestry,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/forestry_1.12.2-5.8.0.264.jar,mod
+Forestry,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/forestry_1.12.2-5.8.0.266.jar,mod
 Forgelin,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Forgelin-1.6.0.jar,mod
 Forge Multipart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ForgeMultipart-1.12.2-2.4.0.55-universal.jar,mod
 Forgiving Void,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ForgivingVoid_1.12.2-1.0.17.jar,mod
@@ -96,8 +98,10 @@ Fps Reducer,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 FTB Guides,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FTBGuides-1.0.2.4.jar,mod
 FTB Lib,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FTBLib-5.0.2.10.jar,mod
 FTB Utilities,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FTBUtilities-5.0.2.10.jar,mod
+Fullscreen Fix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/gud_fullscreen_fix-1.0.2.jar,mod
 Galacticraft Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GalacticraftCore-1.12.2-4.0.1.172.jar,mod
 Galacticraft Planets,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Galacticraft-Planets-1.12.2-4.0.1.172.jar,mod
+Garden Stuff,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GardenStuff-1.12-2.1.1.jar,mod
 Gendustry,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/gendustry-1.6.5.8-mc1.12.2.jar,mod
 Goldfish,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Goldfish-1.12.2--1.01.jar,mod
 Gravity Gun,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GravityGun-1.12.2-7.0.1.jar,mod
@@ -119,7 +123,7 @@ Inventory Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/maste
 Iron Chests,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ironchest-1.12.2-7.0.42.827.jar,mod
 JapariCraft,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/japaricraftmod-1.12.2-4.0.0.jar,mod
 JEHC,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/JEHC-1.12.2-1.5.0.0.jar,mod
-JEI,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/jei_1.12.2-4.8.5.159.jar,mod
+JEI,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/jei_1.12.2-4.8.5.160.jar,mod
 JEI Bees,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/jeibees-0.9.0.5-mc1.12.2.jar,mod
 JEI Integration,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/jeiintegration_1.12.2-1.5.1.36.jar,mod
 JEPB,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/jepb-1.12-1.2.1.jar,mod
@@ -140,7 +144,7 @@ Mekanism,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/c
 Mekanism Generators,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MekanismGenerators-1.12.2-9.4.3.330.jar,mod
 Mekanism Tools,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MekanismTools-1.12.2-9.4.3.330.jar,mod
 MicdoodleCore,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MicdoodleCore-1.12.2-4.0.1.172.jar,mod
-Mine Colonies,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/minecolonies-universal-1.12.2-0.8.8068.jar,mod
+Mine Colonies,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/minecolonies-universal-1.12.2-0.8.8095.jar,mod
 Mine Tweaker Recipe Maker,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar,mod
 MJR Legends Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/MJRLegendsLib-1.12.2-1.1.3.jar,mod
 Mod Lister,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/ModLister-1.12.2-3.2.4.jar,mod
@@ -153,6 +157,7 @@ Natural Nether Portals,1,https://raw.githubusercontent.com/Dalethium/Convergence
 Neat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Neat+1.4-15.jar,mod
 NEID,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/NotEnoughIDs-1.5.4.2.jar,mod
 Netherending Ores,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Netherending-Ores-1.12.2-1.1.1.jar,mod
+Nether Ex,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/NetherEx-1.12-2.1.14.15.jar,mod
 NoNVFlash,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/NoNVFlash-1.12.2-1.2.0.3-universal.jar,mod
 Open Blocks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenBlocks-1.12.2-1.7.6.jar,mod
 Open Mods,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenModsLib-1.12.2-0.11.5.jar,mod
