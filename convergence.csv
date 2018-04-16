@@ -117,9 +117,9 @@ iChun Util,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods
 Impart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/impart-1.0.5a.jar,mod
 Industrial Craft,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/industrialcraft-2-2.8.74-ex112.jar,mod
 Industrial Expansion,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/IndustrialExpansion-1.2.5.jar,mod
-Industrial Foregoing,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/industrialforegoing-1.12.2-1.8.8-136.jar,mod
+Industrial Foregoing,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/industrialforegoing-1.12.2-1.8.9-138.jar,mod
 Inspirations,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Inspirations-1.12.2-0.1.3.jar,mod
-Integration Foregoing,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/IntegrationForegoing-1.12.2-1.6.jar,mod
+Integration Foregoing,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/IntegrationForegoing-1.12.2-1.6.jar,mod
 Inventory Pets,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/inventorypets-1.12-1.4.9.9b.jar,mod
 Inventory Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/InventoryTweaks-1.63.jar,mod
 Iron Chests,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ironchest-1.12.2-7.0.42.827.jar,mod
@@ -133,7 +133,7 @@ JER,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client
 Journey Map,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/journeymap-1.12.2-5.5.2.jar,mod
 Just A Few Fish,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/JustAFewFish-1.7_for_1.12.jar,mod
 Lapis Stays,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnchantingTable-1.12-1.1.2.jar,mod
-Levels 2,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/levels-2.0.3.jar,mod
+Weapon Levels,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/weaponlevels-2.1.0.jar,mod
 Librarian Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/librarianlib-1.12.2-4.9.jar,mod
 Little Things,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/itlt-1.12-1.0.0.jar,mod
 Locale Fix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/mc-locale-fix-1.0.jar,mod
@@ -175,7 +175,7 @@ Plants,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/com
 Plethora,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/plethora-1.12.2-1.1.11.jar,mod
 Portal Gun,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/PortalGun-1.12.2-7.0.2.jar,mod
 Powered Thingies,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/powered-thingies-1.12.2-1.0.14.jar,mod
-Prestige,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Prestige-1.12.2-1.0.12.jar,mod
+Prestige,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Prestige-1.12.2-1.0.13.jar,mod
 Pretty Beaches,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/PrettyBeaches_1.12.2-1.0.3.jar,mod
 Progressive Bosses,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ProgressiveBosses-1.2.2-mc1.12.x.jar,mod
 Quark,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Quark-r1.4-123.jar,mod
@@ -228,7 +228,7 @@ Twilight Forest,1,https://raw.githubusercontent.com/Dalethium/Convergence/master
 Underwater Chest Bubbles,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/[1.12.2]+UnderwaterChestBubbles_-0.3_Beta.jar,mod
 Underwater Rails,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/underwaterrails-1.0.0-universal.jar,mod
 UniDict,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/UniDict-1.12.2-2.5.jar,mod
-Vanilla Tweaks,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/VanillaTweaks-1.2.11.jar,mod
+Vanilla Tweaks,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/VanillaTweaks-1.2.11.jar,mod
 Villager Market,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/villager-market-1.12.2-1.0.0.jar,mod
 Villager Trades,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/VillagerTrades-1.12-0.6.4.jar,mod
 Voice Chat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/VoiceChat-1.12-1.0.jar,mod
