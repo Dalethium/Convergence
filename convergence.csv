@@ -78,8 +78,8 @@ EDX Multipart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/m
 Elec Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ElecCore-1.12.2-1.8.434.jar,mod
 Enchantment Descriptions,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/EnchantmentDescriptions-1.12.2-1.1.8.jar,mod
 Enchiridion,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Enchiridion-1.12.2-3.3.3.jar,mod
-Ender Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderCore-1.12.2-0.5.18.jar,mod
-Ender IO,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-1.12.2-5.0.21.jar,mod
+Ender Core,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderCore-1.12.2-0.5.20.jar,mod
+Ender IO,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-1.12.2-5.0.22.jar,mod
 Ender Storage,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderStorage-1.12.2-2.4.2.126-universal.jar,mod
 Ender Zoo,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderZoo-1.12.1-1.4.0.49.jar,mod
 End Reborn,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EndReborn+[0.1.2].jar,mod
@@ -170,12 +170,12 @@ Pam's Seeds,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 Peripherals Plus One,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/PeripheralsPlusOne-1.12.2-1.2-build-T61.jar,mod
 Pet Buddy,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/petbuddy-petbuddy-1.12.2-2.4.0.1.jar,mod
 Placeable Items,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/placeableitems-3.3.jar,mod
-Placebo,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Placebo-1.12.2-1.3.2.jar,mod
+Placebo,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Placebo-1.12.2-1.3.3.jar,mod
 Plants,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Plants-1.12.2-2.8.2.jar,mod
 Plethora,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/plethora-1.12.2-1.1.11.jar,mod
 Portal Gun,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/PortalGun-1.12.2-7.0.2.jar,mod
 Powered Thingies,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/powered-thingies-1.12.2-1.0.14.jar,mod
-Prestige,7,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Prestige-1.12.2-1.0.14.jar,mod
+Prestige,8,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Prestige-1.12.2-1.0.15.jar,mod
 Pretty Beaches,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/PrettyBeaches_1.12.2-1.0.3.jar,mod
 Progressive Bosses,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ProgressiveBosses-1.2.2-mc1.12.x.jar,mod
 Quark,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Quark-r1.4-123.jar,mod
@@ -217,8 +217,8 @@ The Betweenlands,2,https://raw.githubusercontent.com/Dalethium/Convergence/maste
 The Cactus Mod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/The+Cactus+Mod-1.1.jar,mod
 The Framework,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TheFramework-1.12.2-1.0.1-build-T23.jar,mod
 Thermal Dynamics,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalDynamics-1.12.2-2.3.11.7-universal.jar,mod
-Thermal Expansion,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalExpansion-1.12.2-5.3.11.13-universal.jar,mod
-Thermal Foundation,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalFoundation-1.12.2-2.3.11.9-universal.jar,mod
+Thermal Expansion,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalExpansion-1.12.2-5.3.12.17-universal.jar,mod
+Thermal Foundation,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalFoundation-1.12.2-2.3.12.10-universal.jar,mod
 Thermal Innovation,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalInnovation-1.12.2-0.1.0.3-universal.jar,mod
 Tiny Progressions,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tinyprogressions-1.12.2-3.3.25-Release.jar,mod
 Totem Expansion,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/totemexpansion-1.2.1-1.12.2.jar,mod
