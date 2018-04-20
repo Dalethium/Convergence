@@ -53,7 +53,7 @@ Computer Craft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 Config,12,https://raw.githubusercontent.com/Dalethium/Convergence/master/resources/config.zip,resources
 Container Fix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ContainerFix+MC1.12.2+v1.0.jar,mod
 Controlling,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Controlling-3.0.6.jar,mod
-Convergence Resource Pack,8,https://github.com/WeNeedCoffee/Convergence-Resource-Pack/releases/download/v1.7/Convergence-Resource-Pack.zip,resources
+Convergence Resource Pack,9,https://github.com/WeNeedCoffee/Convergence-Resource-Pack/releases/download/v1.8/Convergence-Resource-Pack.zip,resources
 CookingForBlockheads,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CookingForBlockheads_1.12.2-6.3.26.jar,mod
 Coro Util,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/coroutil-1.12.1-1.1.24.jar,mod
 Corpse Complex,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/corpsecomplex-1.12.2-1.0.2.1.jar,mod
@@ -194,7 +194,7 @@ Rope Bridge,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 Rustic,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/rustic-1.0.3.jar,mod
 Secret Rooms,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/secretroomsmod-1.12.2-5.6.2.jar,mod
 Serene Seasons,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/SereneSeasons-1.12.2-1.1.4-universal.jar,mod
-Server Tab Info,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ServerTabInfo-1.12.2-1.0.0.jar,mod
+Server Tab Info,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ServerTabInfo-1.12.2-1.0.1.jar,mod
 ShadowMC,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ShadowMC-1.12-3.8.0.jar,mod
 Shipwrecks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/shipwrecks-mc1.12.2-2.0.0.jar,mod
 Shoot It,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/shootit-1.12.2-0.2.jar,mod
@@ -210,7 +210,6 @@ Survival Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master
 Tabby Chat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/mod-tabbychat-2.3.4-mc1.12.2.litemod,mod
 Tatw,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Tatw-1.12.2-1.0.1.2.jar,mod
 Tesla Core Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tesla-core-lib-1.12-1.0.13.jar,mod
-TexFix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/TexFix+V-1.12-4.0.jar,mod
 The Betweenlands,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TheBetweenlands-3.3.7-universal.jar,mod
 The Cactus Mod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/The+Cactus+Mod-1.1.jar,mod
 The Framework,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TheFramework-1.12.2-1.0.1-build-T23.jar,mod
