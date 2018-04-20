@@ -30,7 +30,7 @@ Better Underground,1,https://raw.githubusercontent.com/Dalethium/Convergence/mas
 BiblioCraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiblioCraft[v2.4.3][MC1.12.0].jar,mod
 Bibliotheca,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bibliotheca-1.2.2-1.12.2.jar,mod
 Binnie Mods,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/binnie-mods-1.12.2-2.5.0.163.jar,mod
-Biomes O Plenty,10,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiomesOPlenty-1.12.2-7.0.1.2367-universal.jar,mod
+Biomes O Plenty,11,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiomesOPlenty-1.12.2-7.0.1.2368-universal.jar,mod
 Biomes O Plenty Tools,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/boptools-0.0.2.1.jar,mod
 Blood Magic,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BloodMagic-1.12.2-2.2.8-91.jar,mod
 Bookshelf,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Bookshelf-1.12.2-2.3.543.jar,mod
@@ -53,7 +53,7 @@ Computer Craft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 Config,12,https://raw.githubusercontent.com/Dalethium/Convergence/master/resources/config.zip,resources
 Container Fix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ContainerFix+MC1.12.2+v1.0.jar,mod
 Controlling,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Controlling-3.0.6.jar,mod
-Convergence Resource Pack,9,https://github.com/WeNeedCoffee/Convergence-Resource-Pack/releases/download/v1.8/Convergence-Resource-Pack.zip,resources
+Convergence Resource Pack,10,https://github.com/WeNeedCoffee/Convergence-Resource-Pack/releases/download/v2.0/Convergence-Resource-Pack.zip,resources
 CookingForBlockheads,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CookingForBlockheads_1.12.2-6.3.26.jar,mod
 Coro Util,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/coroutil-1.12.1-1.1.24.jar,mod
 Corpse Complex,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/corpsecomplex-1.12.2-1.0.2.1.jar,mod
@@ -92,7 +92,7 @@ Extra Rails,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 Extra Utils 2,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/extrautils2-1.12-1.7.6.jar,mod
 Feeder Helmet,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FeederHelmet-1.1.0.jar,mod
 Foam Fix,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/foamfix-0.9.7-1.12.2-anarchy.jar,mod
-Forestry,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/forestry_1.12.2-5.8.0.267.jar,mod
+Forestry,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/forestry_1.12.2-5.8.0.270.jar,mod
 Forgelin,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Forgelin-1.6.0.jar,mod
 Forge Multipart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ForgeMultipart-1.12.2-2.4.0.55-universal.jar,mod
 Forgiving Void,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ForgivingVoid_1.12.2-1.0.17.jar,mod
@@ -163,6 +163,7 @@ NoNVFlash,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/
 Open Blocks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenBlocks-1.12.2-1.7.6.jar,mod
 Open Mods,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenModsLib-1.12.2-0.11.5.jar,mod
 Optifine,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/OptiFine_1.12.2_HD_U_D1.jar,mod
+Ore Stone Variants,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ore_stone_variants-2.9.jar,mod
 P455w0rds Library,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/p455w0rdslib-1.12-2.0.29.jar,mod
 Pam's HarvestCraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Pam's+HarvestCraft+1.12.2t.jar,mod
 Pam's Seeds,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Pam's+Get+all+the+Seeds!+1.12a.jar,mod
@@ -225,11 +226,12 @@ Twilight Forest,1,https://raw.githubusercontent.com/Dalethium/Convergence/master
 Underwater Chest Bubbles,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/[1.12.2]+UnderwaterChestBubbles_-0.3_Beta.jar,mod
 Underwater Rails,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/underwaterrails-1.0.0-universal.jar,mod
 UniDict,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/UniDict-1.12.2-2.5.jar,mod
+Vanilla Builders Extension,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Vanilla+Builders+Extension-1.12.2-1.0.8.jar,mod
 Vanilla Tweaks,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/VanillaTweaks-1.2.11.jar,mod
 Villager Market,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/villager-market-1.12.2-1.0.0.jar,mod
 Villager Trades,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/VillagerTrades-1.12-0.6.4.jar,mod
 Voice Chat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/VoiceChat-1.12-1.0.jar,mod
-Waddles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Waddles-1.12.2-0.5.6.jar,mod
+Waddles,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Waddles-1.12.2-0.6.0.jar,mod
 Waila Harvestability,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/WailaHarvestability-mc1.12-1.1.12.jar,mod
 Wanion Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/WanionLib-1.12.2-1.5.jar,mod
 Waystones,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Waystones_1.12.2-4.0.33.jar,mod
