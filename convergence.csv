@@ -30,7 +30,7 @@ Better Underground,1,https://raw.githubusercontent.com/Dalethium/Convergence/mas
 BiblioCraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiblioCraft[v2.4.3][MC1.12.0].jar,mod
 Bibliotheca,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bibliotheca-1.2.2-1.12.2.jar,mod
 Binnie Mods,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/binnie-mods-1.12.2-2.5.0.163.jar,mod
-Biomes O Plenty,16,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiomesOPlenty-1.12.2-7.0.1.2380-universal.jar,mod
+Biomes O Plenty,17,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiomesOPlenty-1.12.2-7.0.1.2381-universal.jar,mod
 Biomes O Plenty Tools,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/boptools-1.12-0.0.3.0.jar,mod
 Blood Magic,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BloodMagic-1.12.2-2.2.10-93.jar,mod
 Bookshelf,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Bookshelf-1.12.2-2.3.544.jar,mod
@@ -91,10 +91,11 @@ Extra Cells,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 Extra Planets,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ExtraPlanets-1.12.2-0.3.3.jar,mod
 Extra Rails,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ExtraRails-1.12-1.3.0.jar,mod
 Extra Utils 2,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/extrautils2-1.12-1.7.6.jar,mod
+Familiar Fauna,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FamiliarFauna-1.12.2-1.0.6.jar,mod
 Feeder Helmet,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FeederHelmet-1.1.0.jar,mod
 Foam Fix,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/foamfix-0.9.8-1.12.2-anarchy.jar,mod
 Forestry,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/forestry_1.12.2-5.8.0.270.jar,mod
-Forgelin,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Forgelin-1.6.0.jar,mod
+Forgelin,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Forgelin-1.6.0.jar,mod2
 Forge Multipart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ForgeMultipart-1.12.2-2.4.0.55-universal.jar,mod
 Fps Reducer,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/FpsReducer-1.12.2-1.9.jar,mod
 FTB Guides,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FTBGuides-1.0.2.4.jar,mod
@@ -202,7 +203,7 @@ Rustic,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/com
 SBM-JukeBox,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/SBM-JukeBox-1.12.2-0.0.1b5.jar,mod
 Secret Rooms,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/secretroomsmod-1.12.2-5.6.2.jar,mod
 Serene Seasons,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/SereneSeasons-1.12.2-1.1.4-universal.jar,mod
-Server Tab Info,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ServerTabInfo-1.12.2-1.0.2.jar,mod
+Server Tab Info,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ServerTabInfo-1.12.2-1.1.0.jar,mod
 ShadowMC,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ShadowMC-1.12-3.8.0.jar,mod
 Shipwrecks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/shipwrecks-mc1.12.2-2.0.0.jar,mod
 Shoot It,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/shootit-1.12.2-0.2.jar,mod
@@ -220,6 +221,7 @@ Survival Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master
 Tabby Chat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/mod-tabbychat-2.3.4-mc1.12.2.litemod,mod
 Tatw,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Tatw-1.12.2-1.0.1.2.jar,mod
 Tesla Core Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tesla-core-lib-1.12-1.0.13.jar,mod
+Thaumcraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Thaumcraft-1.12.2-6.1.BETA10.jar,mod
 The Betweenlands,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TheBetweenlands-3.3.7-universal.jar,mod
 The Cactus Mod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/The+Cactus+Mod-1.1.jar,mod
 The Framework,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TheFramework-1.12.2-1.0.1-build-T23.jar,mod
