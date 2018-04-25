@@ -22,7 +22,7 @@ Baubles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/co
 BdLib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bdlib-1.14.3.12-mc1.12.2.jar,mod
 Better Advancements,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterAdvancements-1.12.2-0.0.6.24.jar,mod
 Better FPS,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterFps-1.4.8.jar,mod
-Better Mob Griefing Gamerule,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bettermobgriefinggamerule-1.12.2-7.0.0.jar,mod
+Better Mob Griefing Gamerule,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bettermobgriefinggamerule-1.12.2-7.0.1.jar,mod
 Better Placement,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterPlacement-1.0.0-1.jar,mod
 Better Records,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterRecords-1.12.2-1.5.5.jar,mod
 Better Sprinting,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterSprinting++MC-1.12.2++v2.1.1.jar,mod
@@ -30,13 +30,14 @@ Better Underground,1,https://raw.githubusercontent.com/Dalethium/Convergence/mas
 BiblioCraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiblioCraft[v2.4.3][MC1.12.0].jar,mod
 Bibliotheca,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bibliotheca-1.2.2-1.12.2.jar,mod
 Binnie Mods,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/binnie-mods-1.12.2-2.5.0.163.jar,mod
-Biomes O Plenty,17,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiomesOPlenty-1.12.2-7.0.1.2381-universal.jar,mod
+Biomes O Plenty,18,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BiomesOPlenty-1.12.2-7.0.1.2382-universal.jar,mod
 Biomes O Plenty Tools,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/boptools-1.12-0.0.3.0.jar,mod
 Blood Magic,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BloodMagic-1.12.2-2.2.10-93.jar,mod
 Bookshelf,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Bookshelf-1.12.2-2.3.544.jar,mod
 Borderless Fullscreen,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/FullscreenWindowed-1.12-1.6.0.jar,mod
 Botania,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Botania+r1.10-354.jar,mod
 Bow Infinity Fix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BowInfinityFix-1.11.x-1.12.x-rv5.jar,mod
+Brain Stone,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BrainStoneMod-1.12.2-4.6.45-beta.jar,mod
 Bush Master Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bush-master-core-1.12.2-1.0.2.jar,mod
 Cannibalism,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Cannibalism-5.1.2-1.12.2.jar,mod
 Chameleon,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Chameleon-1.12-4.1.3.jar,mod
@@ -93,7 +94,7 @@ Extra Rails,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 Extra Utils 2,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/extrautils2-1.12-1.7.6.jar,mod
 Familiar Fauna,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FamiliarFauna-1.12.2-1.0.7.jar,mod
 Feeder Helmet,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FeederHelmet-1.1.0.jar,mod
-Foam Fix,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/foamfix-0.9.8-1.12.2-anarchy.jar,mod
+Foam Fix,7,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/foamfix-0.9.9-1.12.2-anarchy.jar,mod
 Forestry,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/forestry_1.12.2-5.8.0.270.jar,mod
 Forgelin,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Forgelin-1.6.0.jar,mod2
 Forge Multipart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ForgeMultipart-1.12.2-2.4.0.55-universal.jar,mod
