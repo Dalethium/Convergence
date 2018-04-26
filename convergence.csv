@@ -45,7 +45,7 @@ Chisel,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/com
 Chunk Animator,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/ChunkAnimator-MC1.12-1.2.jar,mod
 Client Tweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/ClientTweaks_1.12.2-3.1.6.jar,mod
 Code Chicken Lib,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CodeChickenLib-1.12.2-3.1.7.340-universal.jar,mod
-CoFH Core,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CoFHCore-1.12.2-4.3.11.6-universal.jar,mod
+CoFH Core,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CoFHCore-1.12.2-4.4.0.10-universal.jar,mod
 CoFH World,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CoFHWorld-1.12.2-1.1.1.12-universal.jar,mod
 Combined Potions,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CombinedPotions-1.12-1.1.jar,mod
 Compact Machines,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/compactmachines3-1.12.2-3.0.8-b200.jar,mod
@@ -79,7 +79,7 @@ EDX Multipart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/m
 Elec Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ElecCore-1.12.2-1.8.434.jar,mod
 Enchantment Descriptions,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/EnchantmentDescriptions-1.12.2-1.1.8.jar,mod
 Enchiridion,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Enchiridion-1.12.2-3.3.3.jar,mod
-Ender Core,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderCore-1.12.2-0.5.20.jar,mod
+Ender Core,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderCore-1.12.2-0.5.22.jar,mod
 Ender IO,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-1.12.2-5.0.22.jar,mod
 Ender Storage,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderStorage-1.12.2-2.4.2.126-universal.jar,mod
 Ender Zoo,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderZoo-1.12.1-1.4.0.49.jar,mod
@@ -192,13 +192,14 @@ Random Patches,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 Random Things,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RandomThings-MC1.12.2-4.1.5.jar,mod
 Random Tweaks,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/randomtweaks-1.12.2-1.18.1.0.jar,mod
 ReAuth,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/ReAuth-3.5.2.jar,mod
+ReBind,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/ReBind-1.12.2-1.0.jar,mod
 Reconstructor,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/reconstructor-2.11a.jar,mod
-Redstone Arsenal,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RedstoneArsenal-1.12.2-2.3.11.5-universal.jar,mod
+Redstone Arsenal,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RedstoneArsenal-1.12.2-2.4.0.6-universal.jar,mod
 Redstone Flux,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RedstoneFlux-1.12-2.0.1.2-universal.jar,mod
 Redstone Flux Arsenal,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RedstoneFluxArsenal-1.12-1.2.1.jar,mod
 Refined Relocation,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RefinedRelocation_1.12.2-4.2.20.jar,mod
 Reliquary,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Reliquary-1.12.2-1.3.4.760.jar,mod
-Reptiles,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/reptilemod-1.12.2-3.8.4-85.jar,mod
+Reptiles,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/reptilemod-1.12.2-3.8.4-86.jar,mod
 Roots,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/roots-2-0.104.jar,mod
 Rope Bridge,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ropebridge-1.12-2.0.7.jar,mod
 Rustic,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/rustic-1.0.3.jar,mod
@@ -224,13 +225,14 @@ Tatw,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/commo
 Tesla Core Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tesla-core-lib-1.12-1.0.13.jar,mod
 Thaumcraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Thaumcraft-1.12.2-6.1.BETA10.jar,mod
 Thaumic JEI,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThaumicJEI-1.12.2-1.2.1-4.jar,mod
-The Betweenlands,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TheBetweenlands-3.3.7-universal.jar,mod
+The Betweenlands,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TheBetweenlands-3.3.8-universal.jar,mod
 The Cactus Mod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/The+Cactus+Mod-1.1.jar,mod
 The Framework,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TheFramework-1.12.2-1.0.1-build-T23.jar,mod
-Thermal Dynamics,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalDynamics-1.12.2-2.3.11.7-universal.jar,mod
-Thermal Expansion,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalExpansion-1.12.2-5.3.12.17-universal.jar,mod
-Thermal Foundation,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalFoundation-1.12.2-2.3.12.10-universal.jar,mod
-Thermal Innovation,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalInnovation-1.12.2-0.1.0.3-universal.jar,mod
+Thermal Cultivation,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalCultivation-1.12.2-0.2.0.6-universal.jar,mod
+Thermal Dynamics,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalDynamics-1.12.2-2.4.0.8-universal.jar,mod
+Thermal Expansion,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalExpansion-1.12.2-5.4.0.20-universal.jar,mod
+Thermal Foundation,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalFoundation-1.12.2-2.4.0.14-universal.jar,mod
+Thermal Innovation,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ThermalInnovation-1.12.2-0.2.0.4-universal.jar,mod
 Tinker IO,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tinker_io-1.12.2-release+2.6.1.jar,mod
 Tinkers Complement,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TinkersComplement-1.12.2-0.2.3b.jar,mod
 Tinkers Construct,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/TConstruct-1.12.2-2.9.1.65.jar,mod
