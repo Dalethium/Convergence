@@ -16,7 +16,7 @@ Baubles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/co
 BdLib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bdlib-1.14.3.12-mc1.12.2.jar,mod
 Better Advancements,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterAdvancements-1.12.2-0.1.0.77.jar,mod
 Better FPS,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterFps-1.4.8.jar,mod
-Better Invalid Session,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterInvalidSession-1.12.2-1.0.2.jar,mod
+Better Invalid Session,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterInvalidSession-1.12.2-1.0.2.jar,mod
 Better Mob Griefing Gamerule,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bettermobgriefinggamerule-1.12.2-7.0.1.jar,mod
 Better Placement,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/BetterPlacement-1.0.0-1.jar,mod
 Better Records,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BetterRecords-1.12.2-1.6.1.jar,mod
@@ -48,7 +48,7 @@ Compact Machines,5,https://raw.githubusercontent.com/Dalethium/Convergence/maste
 Computer Craft,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/cc-tweaked-1.12.2-1.84.0.jar,mod
 Config,20,https://raw.githubusercontent.com/Dalethium/Convergence/master/resources/config.zip,resources
 Container Fix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ContainerFix+MC1.12.2+v1.0.jar,mod
-Controlling,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Controlling-3.0.6.jar,mod
+Controlling,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Controlling-3.0.7.jar,mod
 Convergence Resource Pack,12,https://github.com/WeNeedCoffee/Convergence-Resource-Pack/releases/download/v2.2/Convergence-Resource-Pack.zip,resources
 CookingForBlockheads,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CookingForBlockheads_1.12.2-6.4.71.jar,mod
 Coro Util,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/coroutil-1.12.1-1.2.32.jar,mod
@@ -85,7 +85,7 @@ Exotic Birds,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mo
 Extra Cells,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ExtraCells-1.12.2-2.6.3aNIGHTLY.jar,mod
 Extra Planets,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ExtraPlanets-1.12.2-0.5.5.jar,mod
 Extra Rails,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ExtraRails-1.12-1.3.0.jar,mod
-Extra Utils 2,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/extrautils2-1.12-1.7.6.jar,mod
+Extra Utils 2,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/extrautils2-1.12-1.9.9.jar,mod
 Fast Workbench,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FastWorkbench-1.12.2-1.7.2.jar,mod
 Feeder Helmet,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/FeederHelmet-1.4.1.jar,mod
 Floating Rails,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Floating-Rails-2.0.3-1.12.2.jar,mod
