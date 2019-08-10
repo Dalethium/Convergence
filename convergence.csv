@@ -261,7 +261,6 @@ Thaumic Restoration,1,https://raw.githubusercontent.com/Dalethium/Convergence/ma
 Gravitation Suite,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Gravitation+Suite-3.1.1.jar,mod
 Advanced Solar Panels,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Advanced+Solar+Panels-4.3.0.jar,mod
 Advanced Machines,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Advanced+Machines-61.0.1.jar,mod
-Tinkers Soc,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/tinkersoc-0.6.jar,mod
 EnderIO Tic Integration,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-integration-tic-1.12.2-5.0.50.jar,mod
 Constructs Armory,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/conarm-1.12.2-1.2.4.jar,mod
 Armory Expansion,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/armoryexpansion-1.3.1.jar,mod
@@ -277,9 +276,9 @@ Dynamic Trees PHC,1,https://raw.githubusercontent.com/Dalethium/Convergence/mast
 Open Eye,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenEye-1.12.2-0.8.jar,mod
 NBT Peripheral,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/nbtperipheral-1.1.jar,mod
 Animus,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Animus-1.12-2.1.4.jar,mod
-Actually Computers,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/actuallycomputers-2.1.0.jar,mod
 Custom Stuff 4,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/customstuff4-1.12.2-0.5.3.jar,mod
 Lemon Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/lemonlib-1.12.2-1.3.0.jar,mod
 Brandons Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BrandonsCore-1.12.2-2.4.17.208-universal.jar,mod
 Redstone Flux,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/RedstoneFlux-1.12-2.1.0.6-universal.jar,mod
 OreLib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/OreLib-1.12.2-3.5.2.2.jar,mod
+Guide API,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Guide-API-1.12-2.1.8-63.jar,mod
