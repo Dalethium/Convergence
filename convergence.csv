@@ -55,7 +55,6 @@ Coro Util,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/
 Corpse Complex,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/corpsecomplex-1.12.2-1.0.6.jar,mod
 Cosmetic Armor,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CosmeticArmorReworked-1.12.2-v4a.jar,mod
 CraftStudioAPI,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar,mod
-Craft Tweaker,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CraftTweaker2-1.12-4.1.19.jar,mod
 Crayfish Furniture Mod,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/furniture-6.3.1-1.12.2.jar,mod
 Csoki Craft Util,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CsokiCraftUtil-1.3.6.jar,mod
 CTM,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/CTM-MC1.12.2-0.3.3.22.jar,mod
@@ -177,7 +176,6 @@ Sophisticated Wolves,2,https://raw.githubusercontent.com/Dalethium/Convergence/m
 Sound Filters,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/SoundFilters-0.11_for_1.12.jar,mod
 Spectrite,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/spectrite-1.7.1.jar,mod
 Stackie,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Stackie-1.12.2-1.6.0.48-universal.jar,mod
-Statues,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/statues-1.12.X-0.8.8.1.jar,mod
 Sublib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/subcommonlib-sublib-1.12.2-1.2.0.4.jar,mod
 Super Blocks,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/superblocks-mc1.12.2-4.2.3.jar,mod
 Survival Tweaks,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/SurvivalTweaks-5.2.0-1.12.2.jar,mod
@@ -217,7 +215,6 @@ Better Foliage,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 Statues Rechiseled,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/statues-rechiseled-1.12.2-1.0.1.jar,mod
 Shulker Tooltip,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ShulkerTooltip-1.5.1.jar,mod
 Iron Furnaces,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ironfurnaces-1.3.5.jar,mod
-Iron Tanks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/irontanks-1.12.2-2.1.0-beta.14.jar,mod
 Gendustry JEI,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/gendustryjei-1.0.2.jar,mod
 Climatic Biomes Dynamic Trees Compat,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ClimaticBiomes-DynamicTreesCompat-1.3.0-MC1.12.2.jar,mod
 Climatic Biomes,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ClimaticBiomes-2.13.5-MC1.12.2.jar,mod
