@@ -1,11 +1,9 @@
-
 Actually Additions,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ActuallyAdditions-1.12.2-r135.jar,mod
 Actually Baubles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ActuallyBaubles-1.12-1.1.jar,mod
 Advanced Machines,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Advanced+Machines-61.0.1.jar,mod
 Advanced Solar Panels,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Advanced+Solar+Panels-4.3.0.jar,mod
 AE2 Stuff,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ae2stuff-0.7.0.4-mc1.12.2.jar,mod
 AE2 WT Lib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/AE2WTLib-1.12.2-1.0.30.jar,mod
-AE Net Tool,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/AE-Net-Vis-Tool-1.12.2-1.0.3.0-universal.jar,mod
 Akashic Tome,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/AkashicTome-1.2-12.jar,mod
 Ambient Sounds,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/AmbientSounds_v3.0.9_mc1.12.2.jar,mod
 Angel Ring To Bauble,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/angelRingToBauble-1.12-0.3.1.50+d4e654e.jar,mod
@@ -39,7 +37,6 @@ Bookshelf,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/
 Borderless Fullscreen,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/FullscreenWindowed-1.12-1.6.0-1.jar,mod
 Botania,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Botania+r1.10-361.jar,mod
 Bow Infinity Fix,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BowInfinityFix-1.12.2-rv5.1.jar,mod
-Brandons Core,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/BrandonsCore-1.12.2-2.4.17.208-universal.jar,mod
 Bush Master Core,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/bush-master-core-1.12.2-1.0.3.jar,mod
 Cannibalism,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Cannibalism-5.6.1-1.12.2.jar,mod
 Capsule,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Capsule-1.12.2-3.2.102.jar,mod
@@ -217,7 +214,6 @@ Vanilla Builders Extension,2,https://raw.githubusercontent.com/Dalethium/Converg
 Vanilla Fix,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/VanillaFix-1.0.10-99.jar,mod
 Vanilla Tweaks,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/VanillaTweaks-1.12.2-1.5.4.jar,mod
 Villager Market,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/villager-market-1.12.2-1.0.1.jar,mod
-Villager Trades,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/VillagerTrades-1.12-0.6.4.jar,mod
 Waddles,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Waddles-1.12.2-0.6.0.jar,mod
 Waila Harvestability,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/WailaHarvestability-mc1.12-1.1.12.jar,mod
 Wanion Lib,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/WanionLib-1.12.2-2.2.jar,mod
