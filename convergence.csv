@@ -134,7 +134,6 @@ Rope Bridge,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 Rustic,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/rustic-1.1.1.jar,mod
 Rustic Thaumaturgy,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Rustic+Thaumaturgy-4.4a.jar,mod
 Secret Rooms,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/secretroomsmod-1.12.2-5.6.4.jar,mod
-Serene Seasons,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/SereneSeasons-1.12.2-1.2.16-universal.jar,mod
 Server Tab Info,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ServerTabInfo-1.12.2-1.2.5.jar,mod
 Shipwrecks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/shipwrecks-mc1.12.2-2.0.0.jar,mod
 Shulker Box,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/shulkerbox-1.3.1.jar,mod
@@ -179,3 +178,6 @@ Zombie Awareness,3,https://raw.githubusercontent.com/Dalethium/Convergence/maste
 P455w0rds Library,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/p455w0rdslib-1.12.2-2.2.156.jar,mod
 Water Columns,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/1.13WaterMechanicsBackport-1.0.2-1.12.2.jar,mod
 CraftPresence,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/CraftPresence-1.12.2-1.5.5.jar,mod
+Better Portals,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/betterportals-0.2.6.jar,mod
+Forgelin,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Forgelin-1.8.3.jar,mod
+Aether,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/aether_legacy-1.12.2-v1.4.4.jar,mod
