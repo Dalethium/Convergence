@@ -1,4 +1,3 @@
-
 Actually Additions,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ActuallyAdditions-1.12.2-r149.jar,mod
 Actually Baubles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ActuallyBaubles-1.12-1.1.jar,mod
 AE2 Stuff,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ae2stuff-0.7.0.4-mc1.12.2.jar,mod
@@ -39,9 +38,9 @@ Compact Machines,5,https://raw.githubusercontent.com/Dalethium/Convergence/maste
 Computer Craft,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/cc-tweaked-1.12.2-1.84.0.jar,mod
 Container Fix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ContainerFix+MC1.12.2+v1.0.jar,mod
 Controlling,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Controlling-3.0.7.jar,mod
-Convergence Config,1,https://github.com/WeNeedCoffee/Convergence-Config/archive/fcf64cdbe2cfb070a8b17dfa6f5d468f660b6c7d.zip,resources
-Convergence Resources,1,https://github.com/WeNeedCoffee/Convergence-Resource-Pack/archive/b7b07aa27b176bb6de19d7f804b1e3a96d89240d.zip,resources
-Convergence Scripts,1,https://github.com/WeNeedCoffee/Convergence-Scripts/archive/482534d5dd5076957474592c067aca4fad462cd3.zip,resources
+Convergence Config,2,https://github.com/WeNeedCoffee/Convergence-Config/releases/download/1/Convergence-Config.zip,resources
+Convergence Resources,2,https://github.com/WeNeedCoffee/Convergence-Resource-Pack/releases/download/3.0/Convergence-Resource-Pack.zip,resources
+Convergence Scripts,2,https://github.com/WeNeedCoffee/Convergence-Scripts/releases/download/1/scripts.zip,resources
 CookingForBlockheads,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CookingForBlockheads_1.12.2-6.4.71.jar,mod
 Coro Util,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/coroutil-1.12.1-1.2.32.jar,mod
 Cosmetic Armor,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CosmeticArmorReworked-1.12.2-v4a.jar,mod
