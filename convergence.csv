@@ -1,3 +1,4 @@
+
 Actually Additions,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ActuallyAdditions-1.12.2-r149.jar,mod
 Actually Baubles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ActuallyBaubles-1.12-1.1.jar,mod
 AE2 Stuff,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ae2stuff-0.7.0.4-mc1.12.2.jar,mod
@@ -62,6 +63,8 @@ Enchantment Descriptions,3,https://raw.githubusercontent.com/Dalethium/Convergen
 Ender Core,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderCore-1.12.2-0.5.65.jar,mod
 EnderIO,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-1.12.2-5.0.50.jar,mod
 EnderIO Endergy,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-endergy-1.12.2-5.0.50.jar,mod
+EnderIO Gas Conduits,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GasConduits-1.12.2-1.2.2.jar,mod
+EnderIO Stellar Fluid Conduits,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/stellarfluidconduit-1.12.2-1.0.2a.jar,mod
 EnderIO Zoo,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-zoo-1.12.2-5.0.50.jar,mod
 Ender Storage,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderStorage-1.12.2-2.4.6.137-universal.jar,mod
 End Reborn,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EndReborn+III+[0.3.1].jar,mod
@@ -74,6 +77,7 @@ Feeder Helmet,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/m
 Foam Fix,9,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/foamfix-0.10.5-1.12.2.jar,mod
 Forgelin,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Forgelin-1.8.3.jar,mod
 Fps Reducer,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/FpsReducer-mc1.12.2-1.12.4.jar,mod
+Future MC,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/future-mc-0.1.10.jar,mod
 Galacticraft Core,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GalacticraftCore-1.12.2-4.0.2.226.jar,mod
 Galacticraft Planets,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Galacticraft-Planets-1.12.2-4.0.2.226.jar,mod
 Garden Stuff,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GardenStuff-1.12-2.1.1.jar,mod
@@ -86,10 +90,10 @@ Hwyla,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/comm
 iChun Util,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/iChunUtil-1.12.2-7.2.1.jar,mod
 Industrial Expansion,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/IndustrialExpansion-1.2.6.jar,mod
 Inspirations,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Inspirations-1.12.2-0.2.8.jar,mod
-Inventory Pets,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/inventorypets-1.12-2.0.1.jar,mod
+Inventory Pets,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/inventorypets-1.12-2.0.2.jar,mod
 Inventory Tweaks,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/InventoryTweaks-1.64+dev.146.jar,mod
 Iron Chests,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ironchest-1.12.2-7.0.72.847.jar,mod
-JEI,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/jei_1.12.2-4.15.0.268.jar,mod
+JEI,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/jei_1.12.2-4.15.0.289.jar,mod
 JEI Aspects,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/tc6aspects4jei-0.0.2a.jar,mod
 JEI Banners,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/jepb-1.12-1.2.1.jar,mod
 JEI Block Drops,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/blockdrops-1.12.2-1.4.0.jar,mod
