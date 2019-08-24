@@ -1,3 +1,7 @@
+# Convergence
+I claim no ownership to anything in this repo, all credits go to their original owners, any use of this repo is strictly non profit.
+
+# Installation 
 Install MultiMC: https://multimc.org/#Download
 
 Ensure it is installed in a folder on your computer without spaces in the name.
