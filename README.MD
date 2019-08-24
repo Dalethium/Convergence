@@ -27,7 +27,7 @@ If it says failed to download, just kill it and relaunch until it succeeds
 
 No support is obligated for users who modify their pack
 
-#The Server
+# The Server
 The server is built in, basic community rules are don't steal don't grief don't be a dick, disobeying these rules will result in a roll back reversing your changes and immidiate bans. 
 
 Try not to cause lag when others are on, world is pregenned to 16k in all dimensions. 
