@@ -1,0 +1,24 @@
+{
+  "version": "2.1.2",
+  "initPopup": true,
+  "exportMode": false,
+  "generatedBy": "\u003cdefault\u003e",
+  "activeConfigs": [
+    "betterfps.json",
+    "evilnotchlib",
+    "foamfix.cfg",
+    "forge.cfg",
+    "OpenEye.json",
+    "phosphor.json",
+    "randompatches.cfg",
+    "rpintegration.cfg",
+    "sampler.ini",
+    "sledgehammer.conf",
+    "splash.properties",
+    "vanillafix",
+    "worldgeneration_profiler.cfg"
+  ],
+  "hashes": {},
+  "mainProfile": "Default",
+  "initially_created": "19.02.2020 04:09:26"
+}

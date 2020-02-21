@@ -1,0 +1,8 @@
+//write all the emojis you want in the text box, 
+
+var list1 = document.querySelector("#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div.content-98HsJk > div.chat-3bRxxu > div.content-yTz4x3 > div.chatContent-a9vAAp > form > div > div.scrollableContainer-2NUZem.webkit-HjD9Er > div > div.textArea-12jD-V.textAreaSlate-1ZzRVj.slateContainer-3Qkn2x > div > div").childNodes //copy js path from text box
+var list2 = Array();
+list1.forEach(a => {if (a.firstElementChild.tagName == "IMG") list2.push(a.firstElementChild)});
+var list3 = Array();
+list2.forEach(a => {list3.push({ "name": a.getAttribute("alt"), "id": a.getAttribute("src"))});
+console.log(JSON.stringify({"emojis": list3}, null , "  "));
