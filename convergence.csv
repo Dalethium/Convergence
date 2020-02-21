@@ -6,6 +6,7 @@ Aether,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/com
 Ambient Sounds,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/AmbientSounds_v3.0.9_mc1.12.2.jar,mod
 Angel Ring To Bauble,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/angelRingToBauble-1.12-0.3.1.50+d4e654e.jar,mod
 Animania,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/animania-1.12.2-1.6.2.jar,mod
+Apple Skin,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/AppleSkin-mc1.12-1.0.9.jar,mod
 Applieden Ergistics 2,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/appliedenergistics2-rv6-stable-7.jar,mod
 Armor Chroma,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/armorchroma-1.12.2-1.4.jar,mod
 Attribute Fix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/AttributeFix-1.12.2-1.0.9.jar,mod
@@ -50,6 +51,7 @@ Crayfish Furniture Mod,2,https://raw.githubusercontent.com/Dalethium/Convergence
 Csoki Craft Util,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/CsokiCraftUtil-1.3.6.jar,mod
 CTM,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/CTM-MC1.12.2-0.3.3.22.jar,mod
 Custom Main Menu,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/CustomMainMenu-MC1.12.2-2.0.9.jar,mod
+Custom Skin Loader,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/CustomSkinLoader_Forge-14.11.jar,mod
 Custom Stuff 4,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/customstuff4-1.12.2-0.5.3.jar,mod
 Delivery,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/delivery-1.12.2-1.5.2.jar,mod
 Dimensional Doors,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/DimensionalDoors-1.12.2-3.0.9-306.jar,mod
@@ -59,12 +61,12 @@ Dynamic Surroundings,5,https://raw.githubusercontent.com/Dalethium/Convergence/m
 Dynamic Surroundings HUD,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/DynamicSurroundingsHuds-1.12.2-3.5.4.0BETA.jar,mod
 Earthworks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Earthworks-1.12-1.3.6.jar,mod
 Enchantment Descriptions,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/EnchantmentDescriptions-1.12.2-1.1.19.jar,mod
-Ender Core,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderCore-1.12.2-0.5.66.jar,mod
-EnderIO,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-1.12.2-5.0.50.jar,mod
-EnderIO Endergy,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-endergy-1.12.2-5.0.50.jar,mod
+Ender Core,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderCore-1.12.2-0.5.68.jar,mod
+EnderIO,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-1.12.2-5.1.51.jar,mod
+EnderIO Endergy,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-endergy-1.12.2-5.1.51.jar,mod
 EnderIO Gas Conduits,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GasConduits-1.12.2-1.2.2.jar,mod
 EnderIO Stellar Fluid Conduits,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/stellarfluidconduit-1.12.2-1.0.2a.jar,mod
-EnderIO Zoo,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-zoo-1.12.2-5.0.50.jar,mod
+EnderIO Zoo,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderIO-zoo-1.12.2-5.1.51.jar,mod
 Ender Storage,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderStorage-1.12.2-2.4.6.137-universal.jar,mod
 Ender Tweaker,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EnderTweaker-1.12.2-1.1.7.jar,mod
 End Reborn,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/EndReborn+III+[0.3.1].jar,mod
@@ -82,6 +84,7 @@ Future MC,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/
 Galacticraft Core,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GalacticraftCore-1.12.2-4.0.2.226.jar,mod
 Galacticraft Planets,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Galacticraft-Planets-1.12.2-4.0.2.226.jar,mod
 Garden Stuff,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GardenStuff-1.12-2.1.1.jar,mod
+GLASS,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GeneralLaymansAestheticSpyingScreen-1.12.2-7.0.0.jar,mod
 Gravity Gun,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GravityGun-1.12.2-7.0.1.jar,mod
 Guide API,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Guide-API-1.12-2.1.8-63.jar,mod
 Hats,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Hats-1.12.2-7.0.2.jar,mod
@@ -99,9 +102,11 @@ JEI,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common
 JEI Aspects,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/tc6aspects4jei-0.0.2a.jar,mod
 JEI Banners,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/jepb-1.12-1.2.1.jar,mod
 JEI Block Drops,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/blockdrops-1.12.2-1.4.0.jar,mod
+JEIDS,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/JustEnoughIDs-1.0.3-44.jar,mod
 JEI Fluid Drops,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/jetif-1.12.2-1.5.1.jar,mod
 JEI Villagers,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/jeivillagers-1.12-1.0.2.jar,mod
 Journey Map,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/journeymap-1.12.2-5.5.5.jar,mod
+Lag Goggles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/LagGoggles-FAT-1.12.2-4.8.jar,mod
 Library Ex,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/LibraryEx-1.12.2-1.0.11.jar,mod
 Little Things,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/itlt-1.12-1.0.0.jar,mod
 Locale Fix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/mc-locale-fix-1.0.jar,mod
@@ -126,7 +131,7 @@ NBT Peripheral,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 Neat,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/client/Neat+1.4-17.jar,mod
 NEID,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/NotEnoughIDs-1.5.4.4.jar,mod
 Netherending Ores,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Netherending-Ores-1.12.2-1.3.jar,mod
-Nether Ex,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/NetherEx-1.12.2-2.0.12.jar,mod
+Nether Ex,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/NetherEx-1.12.2-2.0.13.jar,mod
 Numina,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/Numina-1.12.2-1.0.38.jar,mod
 Open Blocks,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenBlocks-1.12.2-1.8.1.jar,mod
 Open Eye,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/OpenEye-1.12.2-0.8.jar,mod
@@ -193,6 +198,3 @@ Wireless Crafting Terminal,4,https://raw.githubusercontent.com/Dalethium/Converg
 Wireless Redstone,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/WR-CBE-1.12.2-2.3.2.33-universal.jar,mod
 XC Patch,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/XCPatch-1.12.2-1.0.1.jar,mod
 ZL Building Additions,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/ZL-BuildingAdditions_1.12.2-r4.jar,mod
-JEIDS,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/JustEnoughIDs-1.0.3-44.jar,mod
-GLASS,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/GeneralLaymansAestheticSpyingScreen-1.12.2-7.0.0.jar,mod
-Lag Goggles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/common/LagGoggles-FAT-1.12.2-4.8.jar,mod
