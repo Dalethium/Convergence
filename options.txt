@@ -15,7 +15,7 @@ difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["Old_Default_1.12.2.zip","ctp_1.2_MCv3.zip","Faithful32_MC1.12.2_v1.0.5.zip","Faithful 1.12.2-rv4.zip","ModdedFaithful 1.12.2-rv1.zip"]
+resourcePacks:["Faithful32_MC1.12.2_v1.0.5.zip","ModdedFaithful 1.12.2-rv1.zip","Faithful 1.12.2-rv4.zip","ctp_1.2_MCv3.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -91,13 +91,6 @@ key_Misc Caster Toggle:34
 key_nei.options.keys.gui.filters:40
 key_nei.options.keys.gui.lgbneireload:55
 key_keybind.baublesinventory:48
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -116,6 +109,13 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.toggleAutojump:0
 key_quark.keybind.lockBuilding:0
 key_key.cavern.miningAssist:47:SHIFT
@@ -185,8 +185,8 @@ key_mod.chiselsandbits.other.offgrid:0
 key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
-key_Options Gui:25
 key_key.chunkEdgeIndicator:0
+key_Options Gui:25
 key_key.clienttweaks.disable_step_assist:0
 key_key.clienttweaks.hide_offhand_item:0
 key_key.craftingtweaks.rotate:0
@@ -250,7 +250,6 @@ key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
 key_Profile GUI:210
-key_key.secretroomsmod.oneWayface:43
 soundCategory_master:0.052980132
 soundCategory_music:1.0
 soundCategory_record:1.0
