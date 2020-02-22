@@ -3,9 +3,9 @@ ctp_1.2_MCv3,1,/resourcepacks/ctp_1.2_MCv3.zip,https://raw.githubusercontent.com
 Faithful1.12.2,1,/resourcepacks/Faithful 1.12.2-rv4.zip,https://raw.githubusercontent.com/Dalethium/Convergence/master/resourcepacks/Faithful%201.12.2-rv4.zip,client
 ModdedFaithful1.12.2-rv1,1,/resourcepacks/ModdedFaithful 1.12.2-rv1.zip,https://raw.githubusercontent.com/Dalethium/Convergence/master/resourcepacks/ModdedFaithful%201.12.2-rv1.zip,client
 SFTAS,1,/emojicord/dictionary/SFTAS.json,https://raw.githubusercontent.com/Dalethium/Convergence/master/emojicord/dictionary/SFTAS.json,client
-optionstex,3,/options.txt,https://raw.githubusercontent.com/Dalethium/Convergence/master/options.txt,client
-optionsof,3,/optionsof.txt,https://raw.githubusercontent.com/Dalethium/Convergence/master/optionsof.txt,client
-optionsshaders,3,/optionsshaders.txt,https://raw.githubusercontent.com/Dalethium/Convergence/master/optionsshaders.txt,client
+optionstex,4,/options.txt,https://raw.githubusercontent.com/Dalethium/Convergence/master/options.txt,client
+optionsof,4,/optionsof.txt,https://raw.githubusercontent.com/Dalethium/Convergence/master/optionsof.txt,client
+optionsshaders,4,/optionsshaders.txt,https://raw.githubusercontent.com/Dalethium/Convergence/master/optionsshaders.txt,client
 demo,1,/config/achievementbooks/demo.json,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/achievementbooks/demo.json,client
 General,1,/config/acronym/base/General.cfg,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/acronym/base/General.cfg,client
 General,1,/config/acronym/contenttweaker/General.cfg,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/acronym/contenttweaker/General.cfg,client

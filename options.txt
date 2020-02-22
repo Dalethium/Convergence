@@ -4,12 +4,12 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:32
+renderDistance:16
 guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
-maxFps:260
+maxFps:60
 fboEnable:true
 difficulty:1
 fancyGraphics:true
@@ -26,7 +26,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
-enableVsync:true
+enableVsync:false
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:false
@@ -39,7 +39,7 @@ chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
-mipmapLevels:4
+mipmapLevels:0
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
@@ -109,6 +109,7 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.lockBuilding:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -117,12 +118,11 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.toggleAutojump:0
-key_quark.keybind.lockBuilding:0
 key_key.cavern.miningAssist:47:SHIFT
 key_key.cavern.miningRecords:88
 key_key.cavern.magicBook:0
 key_cos.key.opencosarmorinventory:0
-key_key.findme.search:21
+key_enchiridion.key.library:38
 key_keys.fe.yes:66
 key_keys.fe.no:67
 key_key.ftbguides.guide:0
@@ -130,6 +130,9 @@ key_key.fart.desc:0
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:0
 key_neat.keybind.toggle:0
+key_key.toggleFoVChanges:51:SHIFT
+key_key.reloadSoundSystem:66:SHIFT
+key_key.toggleTimeOfDayOverlay:0
 key_keys.servertabinfo.show:29
 key_keys.servertabinfo.show2:157
 key_key.tg.open_gui:19
@@ -140,7 +143,6 @@ key_dshuds.keybind.SelectionBox:0
 key_dshuds.keybind.LightLevel:65
 key_dshuds.keybind.ChunkBorders:67
 key_key.dismount:42
-key_key.narrator:48:CONTROL
 key_Bindings Menu:38
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -185,7 +187,6 @@ key_mod.chiselsandbits.other.offgrid:0
 key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
-key_key.chunkEdgeIndicator:0
 key_Options Gui:25
 key_key.clienttweaks.disable_step_assist:0
 key_key.clienttweaks.hide_offhand_item:0
@@ -216,6 +217,9 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_key.infinity.desc:71
+key_key.infinitycopy.desc:72
+key_key.infinitysave.desc:73
 key_key.categories.naming:49
 key_invtweaks.key.sort:19
 key_justenoughbuttons.key.makecopy:0
@@ -227,10 +231,12 @@ key_keybinding.playerstorage.invert:83
 key_keybinding.playerstorage.limit:38
 key_keybinding.playerstorage.highlight:35
 key_keybinding.playerstorage.delete:32:CONTROL
+key_options.narrator:48:CONTROL
 key_xreliquary.keybind.fortune_coin:0
 key_signpic.key.gui:43
 key_Trade:47:CONTROL
 key_WorldEdit Reference:0
+key_World Handler:47
 key_Open Skill GUI:21
 key_key.control:29
 key_key.journeymap.zoom_in:13
