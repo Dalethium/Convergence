@@ -113,7 +113,8 @@ fastflyblockbreakingMC,1,https://raw.githubusercontent.com/Dalethium/Convergence
 FastFurnace,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FastFurnace1.12.21.3.1.jar,both
 FastWorkbench,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FastWorkbench1.12.21.7.3.jar,both
 foamfix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/foamfix0.10.101.12.2.jar,both
-forgeessentials,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/forgeessentials1.12.212.3.54client.jar,client
+forgeessentials-client,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/forgeessentials1.12.212.3.54client.jar,client
+forgeessentials-server,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/forgeessentials1.12.212.3.73server.jar,server
 ForgeMultipart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ForgeMultipart1.12.22.6.2.83universal.jar,both
 FpsReducermc,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FpsReducermc1.12.21.14.1.jar,client
 FriendlyFire,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FriendlyFire1.12.21.5.12.jar,both
