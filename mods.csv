@@ -5,6 +5,10 @@ TipTheScales,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mo
 NoRecipeBook,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/noRecipeBook_v1.2.2formc1.12.2.jar,client
 NoNVFlash,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/NoNVFlash-1.12.2-1.2.0.3-universal.jar,client
 TexFix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/TexFix%20V-1.12-4.0.jar,client
+CreativePlus,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CreativePlus%20MC1.12.2%20v1.0.2.jar,client
+WorldHandler,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/WorldHandler-1.12.2-2.2.2.jar,client
+ExternalTweaker,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/externaltweaker-1.12-0.3.jar,client
+InfinityItemEditor,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Infinity-0.13.4.jar,client
 ColorUtility,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ColorUtility-universal-1.0.4.jar,client
 RebindNarrator,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/rebindnarrator-1.0.jar,client
 LessLag,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/lesslag-1.0-1.12.2.jar,client
@@ -144,7 +148,7 @@ infotooltip,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 InGameAccountSwitcherForge,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/InGameAccountSwitcherForge1.127.0.3.jar,client
 InGameTimer,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/InGameTimer1.3.1.jar,both
 Inspirations,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Inspirations1.12.20.2.9.jar,both
-inventorypets1,,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/inventorypets1.122.0.3.jar,both
+inventorypets,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/inventorypets1.122.0.3.jar,both
 InventoryTweaks,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/InventoryTweaks1.64dev.150.jar,both
 invertedredstone,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/invertedredstone0.1.jar,both
 ironchest,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ironchest1.12.27.0.72.847.jar,both
