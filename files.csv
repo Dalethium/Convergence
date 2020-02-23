@@ -5,7 +5,7 @@ ModdedFaithful1.12.2-rv1,1,/resourcepacks/ModdedFaithful 1.12.2-rv1.zip,https://
 SFTAS,1,/emojicord/dictionary/SFTAS.json,https://raw.githubusercontent.com/Dalethium/Convergence/master/emojicord/dictionary/SFTAS.json,client
 optionstex,4,/options.txt,https://raw.githubusercontent.com/Dalethium/Convergence/master/options.txt,client
 keepme,1,/config/copy/keepme.txt,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/copy/keepme.txt,both
-optionsof,4,/optionsof.txt,https://raw.githubusercontent.com/Dalethium/Convergence/master/optionsof.txt,client
+optionsof,5,/optionsof.txt,https://raw.githubusercontent.com/Dalethium/Convergence/master/optionsof.txt,client
 optionsshaders,4,/optionsshaders.txt,https://raw.githubusercontent.com/Dalethium/Convergence/master/optionsshaders.txt,client
 demo,1,/config/achievementbooks/demo.json,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/achievementbooks/demo.json,client
 General,1,/config/acronym/base/General.cfg,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/acronym/base/General.cfg,client
