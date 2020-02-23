@@ -15,7 +15,6 @@ NoMoreRecipeConflict,1,https://raw.githubusercontent.com/Dalethium/Convergence/m
 Enchiridion,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Enchiridion-1.12.2-3.3.5.jar,both
 Surge,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Surge-1.12.2-2.0.77.jar,both
 mclocalefixcoremod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/00mclocalefixcoremod181.0.jar,both
-achievementbooksV,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/achievementbooksV1.0bMC1.12.2.jar,both
 AdditionalCompression,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/AdditionalCompression1.12.23.3.jar,both
 AdditionalLootTables,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/AdditionalLootTables1.122.0.3.45.jar,both
 advancedmacros,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/advancedmacros7.7.7b.jar,client
@@ -117,10 +116,6 @@ forgeessentials-server,1,https://raw.githubusercontent.com/Dalethium/Convergence
 ForgeMultipart,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ForgeMultipart1.12.22.6.2.83universal.jar,both
 FpsReducermc,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FpsReducermc1.12.21.14.1.jar,client
 FriendlyFire,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FriendlyFire1.12.21.5.12.jar,both
-FTBBanners,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FTBBanners1.1.0.12.jar,both
-FTBGuides,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FTBGuides1.0.2.33.jar,both
-FTBLib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FTBLib5.4.4.5.jar,both
-FTBTutorialMod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FTBTutorialMod1.0.0.11.jar,both
 FullscreenWindowed,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FullscreenWindowed1.121.6.0.jar,client
 furniture,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/furniture6.3.11.12.2.jar,both
 futuremc,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/futuremc0.1.13.jar,both
