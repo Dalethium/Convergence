@@ -15,9 +15,9 @@ keep: |default|default|MASK|default|default|MASK|MASK|MASK|MASK|
 keep-onei: |oneid|oneid|default|oneid|oneid|default|default|default|default|
 show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 ----------------------------------------------------
-6025 items registered
-11 filters loaded
-366 items matched in 47 ms
+5910 items registered
+9 filters loaded
+348 items matched in 40 ms
 ----------------------------------------------------
 
 - bibliocraft :
@@ -348,25 +348,6 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ wool_yellow:                              	keep:[0]
 - forge :
 	+ bucketfilled:                             	keep-one:[]
-- minecraft :
-	+ arrow:                                    	keep-one:[0]
-	+ banner:                                   	keep:[0]
-	+ book:                                     	keep-one:[0]
-	+ carpet:                                   	keep:[0]
-	+ enchanted_book:                           	keep-one:[0]
-	+ knowledge_book:                           	keep-one:[0]
-	+ lingering_potion:                         	keep-one:[0]
-	+ potion:                                   	keep-one:[0]
-	+ spawn_egg:                                	keep-one:[0]
-	+ spectral_arrow:                           	keep-one:[0]
-	+ splash_potion:                            	keep-one:[0]
-	+ stained_glass:                            	keep:[0]
-	+ stained_glass_pane:                       	keep:[0]
-	+ stained_hardened_clay:                    	keep:[0]
-	+ tipped_arrow:                             	keep-one:[0]
-	+ wool:                                     	keep:[0]
-	+ writable_book:                            	keep-one:[0]
-	+ written_book:                             	keep-one:[0]
 - reccomplex :
 	+ artifact_generation_tag:                  	keep-one:[]
 	+ block_selector:                           	keep-one:[]

@@ -166,7 +166,6 @@ climaticbiomesjbg:tropical_river
 thaumcraft:magical_forest
 thaumcraft:eerie
 thaumcraft:eldritch
-dimensionalpocketsii:pocket dim
 sugiforest:sugi_forest
 twilightforest:twilight_lake
 twilightforest:twilight_forest
@@ -208,8 +207,6 @@ dimdoors:limbo
 dimdoors:white_void
 dimdoors:black_void
 dimdoors:dangerous_black_void
-netherplus:crimsonforest
-netherplus:warpedforest
 spectrite:spectrite_dungeon
 beneath:the_beneath
 stygian:stygian_growth

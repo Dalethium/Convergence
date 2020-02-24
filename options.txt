@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -91,6 +91,8 @@ key_Misc Caster Toggle:34
 key_nei.options.keys.gui.filters:40
 key_nei.options.keys.gui.lgbneireload:55
 key_keybind.baublesinventory:48
+key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -109,7 +111,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -117,7 +118,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:0
 key_key.cavern.miningAssist:47:SHIFT
 key_key.cavern.miningRecords:88
 key_key.cavern.magicBook:0
@@ -125,7 +125,6 @@ key_cos.key.opencosarmorinventory:0
 key_enchiridion.key.library:38
 key_keys.fe.yes:66
 key_keys.fe.no:67
-key_key.ftbguides.guide:0
 key_key.fart.desc:0
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:0
@@ -138,7 +137,7 @@ key_keys.servertabinfo.show2:157
 key_key.tg.open_gui:19
 key_key.tg.armor_ability:0
 key_key.tg.lense_gui:33
-key_World Tooltips Configuration:74
+key_World Tooltips Configuration:0
 key_dshuds.keybind.SelectionBox:0
 key_dshuds.keybind.LightLevel:65
 key_dshuds.keybind.ChunkBorders:67
@@ -237,7 +236,6 @@ key_signpic.key.gui:43
 key_Trade:47:CONTROL
 key_WorldEdit Reference:0
 key_World Handler:47
-key_Open Skill GUI:21
 key_key.control:29
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
@@ -256,6 +254,7 @@ key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
 key_Profile GUI:210
+key_key.secretroomsmod.oneWayface:43
 soundCategory_master:0.052980132
 soundCategory_music:1.0
 soundCategory_record:1.0
