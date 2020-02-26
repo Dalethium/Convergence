@@ -1,1 +1,2 @@
-*.cfg    -text
+*          text=auto
+*.cfg      -text

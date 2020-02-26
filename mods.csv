@@ -14,10 +14,9 @@ ReAuth,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/rea
 NoMoreRecipeConflict,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/NoMoreRecipeConflict-0.13(1.12.2).jar,both
 Enchiridion,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Enchiridion-1.12.2-3.3.5.jar,both
 Surge,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Surge-1.12.2-2.0.77.jar,both
-mclocalefixcoremod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/00mclocalefixcoremod181.0.jar,both
+MCLocaleFix,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/00mclocalefixcoremod181.0.jar,both
 AdditionalCompression,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/AdditionalCompression1.12.23.3.jar,both
 AdditionalLootTables,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/AdditionalLootTables1.122.0.3.45.jar,both
-advancedmacros,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/advancedmacros7.7.7b.jar,client
 adventurepack,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/adventurepack1.7.0.jar,both
 AIImprovements,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/AIImprovements1.120.0.1b3.jar,both
 AmbientSoundsv,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/AmbientSoundsv3.0.9mc1.12.2.jar,client
@@ -195,7 +194,7 @@ OreLib,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Ore
 palimpsest,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/palimpsest1.12.21.2.3.jar,both
 Patchouli,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Patchouli1.020.jar,both
 phosphor,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/phosphor1.12.20.2.6build50universal.jar,both
-PickUpNotifierv,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/PickUpNotifierv1.0.31.12.2.jar,client
+PickUpNotifier,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/PickUpNotifierv1.0.31.12.2.jar,client
 Pillar,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Pillar1.210.jar,both
 placeableitems,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/placeableitems3.3.jar,both
 Plated,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Plated0.1.0.jar,both
@@ -203,7 +202,7 @@ playerplates,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mo
 playersdropheads,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/playersdropheads1.12.x1.1.0.jar,both
 plethora,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/plethora1.12.21.2.3.jar,both
 PrettyBeaches,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/PrettyBeaches1.12.21.0.4.jar,both
-projectstorage,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/projectstorage1.12.21.3.jar,both
+projectstorage,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/projectstorage-1.12.2-1.3.jar,both
 PyramidPlunder,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/PyramidPlunder1.12.21.4.jar,both
 Quarkr,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Quarkr1.6177.jar,both
 randomconfigs,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/randomconfigs1.12.21.3.2.3.jar,both
@@ -223,7 +222,8 @@ Ruins,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Ruin
 sampler,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/sampler1.84.jar,both
 ScreenshotToClipboard,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ScreenshotToClipboard1.12.21.0.1.jar,client
 secretroomsmod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/secretroomsmod1.12.25.6.4.jar,both
-ServerInfoProvider,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerInfoProvider1.12.13.0.38universal.jar,both
+ServerInfoProvider,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerInfoProvider1.12.13.0.38universal.jar,server
+ServerInfoViewer,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerInfoViewer-1.12.1-2.0.11-universal.jar,client
 ServerTabInfo,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerTabInfo1.12.21.2.6.jar,both
 shipwrecksmc,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/shipwrecksmc1.12.22.0.0.jar,both
 showcasemod,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/showcasemod1.12.21.0.0.0.jar,both
@@ -257,6 +257,8 @@ TheBeneath,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods
 themidnight,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/themidnight0.3.5.jar,both
 theplopper,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/theplopper1.12.xv1.2.1.jar,both
 Threshold,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Threshold1.1.jar,both
+CookingForBlockheads,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CookingForBlockheads_1.12.2-6.5.0.jar,both
+PamsHarvestCraft,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/PamsHarvestCraft-1.12.2zf.jar,both
 LLibrary,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/llibrary-1.7.19-1.12.2.jar,both
 TickDynamic,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/TickDynamic-1.12.2-1.0.3.jar,server
 TickProfiler,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/TickProfiler1.120.0.7.jar,both
