@@ -4,10 +4,6 @@ BetterInvalidSession,1,https://raw.githubusercontent.com/Dalethium/Convergence/m
 TipTheScales,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/TipTheScales-1.12.2-1.0.4.jar,client
 NoRecipeBook,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/noRecipeBook_v1.2.2formc1.12.2.jar,client
 NoNVFlash,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/NoNVFlash-1.12.2-1.2.0.3-universal.jar,client
-CreativePlus,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CreativePlus%20MC1.12.2%20v1.0.2.jar,client
-WorldHandler,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/WorldHandler-1.12.2-2.2.2.jar,client
-InfinityItemEditor,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Infinity-0.13.4.jar,client
-ColorUtility,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ColorUtility-universal-1.0.4.jar,client
 RebindNarrator,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/rebindnarrator-1.0.jar,client
 LessLag,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/lesslag-1.0-1.12.2.jar,client
 ReAuth,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/reauth-3.6.0.jar,client
@@ -161,7 +157,7 @@ Labyrinth,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/
 LagGoggles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LagGogglesFAT1.12.24.9.jar,both
 LaunchGui,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LaunchGui1.9.42.0.324client.jar,client
 legiblenei,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/legiblenei1.12.21.6.12.9.jar,both
-LimeLib,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/limelib1.12.21.7.12.jar,both
+LimeLib,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/limelib-1.12.2-1.7.12.jar,both
 LLOverlayReloaded,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LLOverlayReloaded1.1.6mc1.12.2.jar,client
 LoadingProfilerMC,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LoadingProfilerMC1.121.3.jar,client
 LoginShield,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LoginShield1.12.23g7c6e7ac.jar,both
