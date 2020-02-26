@@ -1049,6 +1049,7 @@
 /config/computercraft.cfg,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/computercraft.cfg,client
 /config/consolefilter.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/consolefilter.cfg,client
 /config/controllable/controller.properties,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/controllable/controller.properties,client
+/config/cookingforblockheads.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/cookingforblockheads.cfg,client
 /config/copy/keepme.txt,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/copy/keepme.txt,client
 /config/copypaste.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/copypaste.cfg,client
 /config/corail_pillar.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/corail_pillar.cfg,client
@@ -1137,6 +1138,8 @@
 /config/gbook.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/gbook.cfg,client
 /config/gottagofast.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/gottagofast.cfg,client
 /config/gottschcore/general.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/gottschcore/general.cfg,client
+/config/harvestcraft.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/harvestcraft.cfg,client
+/config/harvestcraft_fruittree.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/harvestcraft_fruittree.cfg,client
 /config/heartdrops.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/heartdrops.cfg,client
 /config/hunterillager.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/hunterillager.cfg,client
 /config/ias.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/ias.cfg,client
@@ -1263,6 +1266,7 @@
 /config/simplevoidworld.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/simplevoidworld.cfg,client
 /config/simplyconveyors.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/simplyconveyors.cfg,client
 /config/simplyloaders.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/simplyloaders.cfg,client
+/config/siv.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/siv.cfg,client
 /config/sledgehammer.conf,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/sledgehammer.conf,client
 /config/soundfilters.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/soundfilters.cfg,client
 /config/spawnprotection.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/spawnprotection.cfg,client
