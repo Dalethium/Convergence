@@ -15,9 +15,9 @@ keep: |default|default|MASK|default|default|MASK|MASK|MASK|MASK|
 keep-onei: |oneid|oneid|default|oneid|oneid|default|default|default|default|
 show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 ----------------------------------------------------
-7245 items registered
+7247 items registered
 11 filters loaded
-763 items matched in 201 ms
+763 items matched in 27 ms
 ----------------------------------------------------
 
 - bibliocraft :

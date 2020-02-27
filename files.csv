@@ -595,7 +595,7 @@
 /config/GraveStoneMod/GraveStone.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/GraveStoneMod/GraveStone.cfg,client
 /config/InGameTimer.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/InGameTimer.cfg,client
 /config/InfinityItemEditor.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/InfinityItemEditor.cfg,client
-/config/InvTweaks/InvTweaks.cfg,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/InvTweaks/InvTweaks.cfg,client
+/config/InvTweaks/InvTweaks.cfg,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/InvTweaks/InvTweaks.cfg,client
 /config/InvTweaks/InvTweaksRules.txt,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/InvTweaks/InvTweaksRules.txt,client
 /config/InvTweaks/InvTweaksTree.txt,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/InvTweaks/InvTweaksTree.txt,client
 /config/InvTweaks/trees/readme.txt,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/InvTweaks/trees/readme.txt,client
@@ -606,7 +606,7 @@
 /config/LaunchGui.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/LaunchGui.cfg,client
 /config/LegibleNei/LegibleNei.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/LegibleNei/LegibleNei.cfg,client
 /config/LegibleNei/LegibleNei.json,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/LegibleNei/LegibleNei.json,client
-/config/LegibleNei/LegibleNei.log,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/LegibleNei/LegibleNei.log,client
+/config/LegibleNei/LegibleNei.log,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/LegibleNei/LegibleNei.log,client
 /config/LegibleNei/filters/Bibliocraft.json,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/LegibleNei/filters/Bibliocraft.json,client
 /config/LegibleNei/filters/BloodMagic.json,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/LegibleNei/filters/BloodMagic.json,client
 /config/LegibleNei/filters/Botania.json,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/LegibleNei/filters/Botania.json,client
@@ -801,7 +801,6 @@
 /config/VillageNames3/namepieces_village.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/VillageNames3/namepieces_village.cfg,client
 /config/VillageNames3/namepieces_villager.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/VillageNames3/namepieces_villager.cfg,client
 /config/Waystones.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/Waystones.cfg,client
-/config/achievementbooks/demo.json,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/achievementbooks/demo.json,client
 /config/acronym/base/General.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/acronym/base/General.cfg,client
 /config/acronym/contenttweaker/General.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/acronym/contenttweaker/General.cfg,client
 /config/acronym/material_system.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/acronym/material_system.cfg,client
@@ -1056,6 +1055,7 @@
 /config/cosmeticarmorreworked.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/cosmeticarmorreworked.cfg,client
 /config/craftingtweaks.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/craftingtweaks.cfg,client
 /config/cramming.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/cramming.cfg,client
+/config/creativeplus.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/creativeplus.cfg,client
 /config/crowmap.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/crowmap.cfg,client
 /config/ctm.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/ctm.cfg,client
 /config/customcursormod.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/customcursormod.cfg,client
@@ -1195,11 +1195,12 @@
 /config/pickupnotifier.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/pickupnotifier.cfg,client
 /config/pillar.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/pillar.cfg,client
 /config/playersdropheads.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/playersdropheads.cfg,client
+/config/playerstorage.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/playerstorage.cfg,client
 /config/plethora-core.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/plethora-core.cfg,client
 /config/plethora.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/plethora.cfg,client
 /config/pregenerator/ClientConfig.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/pregenerator/ClientConfig.cfg,client
 /config/pregenerator/ExampleFile.txt,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/pregenerator/ExampleFile.txt,client
-/config/pregenerator/PregenConfig.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/pregenerator/PregenConfig.cfg,client
+/config/pregenerator/PregenConfig.cfg,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/pregenerator/PregenConfig.cfg,client
 /config/prettybeaches.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/prettybeaches.cfg,client
 /config/pyramidplunder.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/pyramidplunder.cfg,client
 /config/quark.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/quark.cfg,client
@@ -1261,6 +1262,7 @@
 /config/showcasemod_config.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/showcasemod_config.cfg,client
 /config/shulkerbox.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/shulkerbox.cfg,client
 /config/signpic.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/signpic.cfg,client
+/config/silkspawners.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/silkspawners.cfg,client
 /config/simple_trophies.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/simple_trophies.cfg,client
 /config/simplevoidworld.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/simplevoidworld.cfg,client
 /config/simplyconveyors.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/simplyconveyors.cfg,client
@@ -1271,7 +1273,7 @@
 /config/spawnprotection.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/spawnprotection.cfg,client
 /config/spawntemple.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/spawntemple.cfg,client
 /config/spectrite/config.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/spectrite/config.cfg,client
-/config/splash.properties,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/splash.properties,client
+/config/splash.properties,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/splash.properties,client
 /config/stackie.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/stackie.cfg,client
 /config/stg.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/stg.cfg,client
 /config/stygian.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/stygian.cfg,client
@@ -1502,10 +1504,11 @@
 /config/waila/theme/vanilla.json,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/waila/theme/vanilla.json,client
 /config/waila/waila.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/waila/waila.cfg,client
 /config/wailaharvestability.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/wailaharvestability.cfg,client
-/config/waitingtimestats.json,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/waitingtimestats.json,client
+/config/waitingtimestats.json,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/waitingtimestats.json,client
 /config/wawla.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/wawla.cfg,client
-/config/worldedit/worldedit.properties,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldedit/worldedit.properties,client
+/config/worldedit/worldedit.properties,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldedit/worldedit.properties,client
 /config/worldgeneration_profiler.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldgeneration_profiler.cfg,client
+/config/worldhandler.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldhandler.cfg,client
 /config/worldjointext/configGeneral.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldjointext/configGeneral.cfg,client
 /config/worldjointext/configLang.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldjointext/configLang.cfg,client
 /config/worldtooltips.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldtooltips.cfg,client
