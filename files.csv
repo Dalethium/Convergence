@@ -1012,7 +1012,6 @@
 /config/capsule/starters/_starter_jungle_hut.nbt,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/capsule/starters/_starter_jungle_hut.nbt,client
 /config/capsule/starters/_starter_oak_hut.nbt,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/capsule/starters/_starter_oak_hut.nbt,client
 /config/capsule/starters/starter_traveller's_base.nbt,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/capsule/starters/starter_traveller%27s_base.nbt,client
-/config/carryon.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/carryon.cfg,client
 /config/cavern/aquacavern-biomes.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/cavern/aquacavern-biomes.cfg,client
 /config/cavern/aquacavern-dimension.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/cavern/aquacavern-dimension.cfg,client
 /config/cavern/aquacavern-veins.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/cavern/aquacavern-veins.cfg,client
@@ -1055,7 +1054,6 @@
 /config/cosmeticarmorreworked.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/cosmeticarmorreworked.cfg,client
 /config/craftingtweaks.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/craftingtweaks.cfg,client
 /config/cramming.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/cramming.cfg,client
-/config/creativeplus.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/creativeplus.cfg,client
 /config/crowmap.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/crowmap.cfg,client
 /config/ctm.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/ctm.cfg,client
 /config/customcursormod.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/customcursormod.cfg,client
@@ -1262,7 +1260,6 @@
 /config/showcasemod_config.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/showcasemod_config.cfg,client
 /config/shulkerbox.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/shulkerbox.cfg,client
 /config/signpic.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/signpic.cfg,client
-/config/silkspawners.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/silkspawners.cfg,client
 /config/simple_trophies.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/simple_trophies.cfg,client
 /config/simplevoidworld.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/simplevoidworld.cfg,client
 /config/simplyconveyors.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/simplyconveyors.cfg,client
@@ -1508,7 +1505,6 @@
 /config/wawla.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/wawla.cfg,client
 /config/worldedit/worldedit.properties,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldedit/worldedit.properties,client
 /config/worldgeneration_profiler.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldgeneration_profiler.cfg,client
-/config/worldhandler.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldhandler.cfg,client
 /config/worldjointext/configGeneral.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldjointext/configGeneral.cfg,client
 /config/worldjointext/configLang.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldjointext/configLang.cfg,client
 /config/worldtooltips.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/worldtooltips.cfg,client
