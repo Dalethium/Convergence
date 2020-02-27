@@ -24,6 +24,18 @@
     
     "buttons":
     {
+	"accounts":
+{
+"text" : "",
+"posX" : 104,
+"posY" : 96,
+"width" : 20,
+"height" : 20,
+"wrappedButton" : 20,
+"texture" : "accswitcher:textures/gui/cmmbutton.png",
+"pressSound" : "",
+"tooltip" : "You are currently logged in as #username#."
+},
         "singleplayer":
         {
             "text" : "menu.singleplayer",
