@@ -81,7 +81,7 @@ DefaultWorldGeneratorport,0,https://raw.githubusercontent.com/Dalethium/Converge
 DenyBlocksMC,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DenyBlocksMC1.12.21.1.6.jar,both
 DimensionalDoors,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DimensionalDoors3.0.9287.jar,both
 Ding,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Ding1.12.21.0.2.jar,client
-DoomlikeDungeons,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DoomlikeDungeons1.12.12MC1.12.2.jar,both
+DoomlikeDungeons,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DoomlikeDungeons-1.13.1-MC1.12.2.jar,both
 Dungeons2mc,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Dungeons2mc1.12.2f14.23.5.2768v1.7.1.jar,both
 DungeonTactics,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DungeonTactics1.12.20.16.6.jar,both
 DynamicSurroundings,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DynamicSurroundings1.12.23.6.0.2.jar,both
@@ -128,7 +128,7 @@ ido,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ido1.1
 IItemRendererRebornPreRelease,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/IItemRendererRebornPreRelease5.jar,client
 IllagersPlus,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/IllagersPlus1.12.21.1.3.jar,both
 infotooltip,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/infotooltip1.12.21.0.jar,client
-InGameAccountSwitcherForge,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/InGameAccountSwitcherForge1.127.0.3.jar,client
+InGameAccountSwitcher,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/InGameAccountSwitcher-1.12.2-7.0.5.jar,client
 InGameTimer,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/InGameTimer1.3.1.jar,both
 Inspirations,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Inspirations1.12.20.2.9.jar,both
 inventorypets,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/inventorypets1.122.0.3.jar,both
@@ -144,7 +144,7 @@ jeivillagers,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mo
 jepb,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jepb1.121.2.1.jar,both
 jlgmchatbox,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jlgmchatbox1.12.21.3.1.jar,both
 jlgmpgen,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jlgmpgen1.12.22.4.1.jar,both
-journeymap,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/journeymap1.12.25.5.9.jar,both
+journeymap,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/journeymap-1.12.2-5.7.0.jar,both
 justenoughbuttons,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/justenoughbuttons1.12.21.2.3.jar,client
 justenoughdimensions,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/justenoughdimensions1.12.21.6.0dev.20191019.172643.jar,both
 JustEnoughIDs,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/JustEnoughIDs1.0.348.jar,both
@@ -200,7 +200,7 @@ plethora,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/p
 PrettyBeaches,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/PrettyBeaches1.12.21.0.4.jar,both
 ProjectStorage1,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/projectstorage-1.12.2-1.4.jar,both
 PyramidPlunder,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/PyramidPlunder1.12.21.4.jar,both
-Quark,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Quarkr1.6177.jar,both
+Quark,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Quark-r1.6-178.jar,both
 randomconfigs,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/randomconfigs1.12.21.3.2.3.jar,both
 randomloot,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/randomloot1.7.3.jar,both
 randompatches,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/randompatches1.12.21.21.0.0.jar,both
