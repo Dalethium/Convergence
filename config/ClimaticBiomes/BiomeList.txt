@@ -207,6 +207,7 @@ dimdoors:limbo
 dimdoors:white_void
 dimdoors:black_void
 dimdoors:dangerous_black_void
+minecraftfuture:bamboo_forest
 spectrite:spectrite_dungeon
 beneath:the_beneath
 stygian:stygian_growth
