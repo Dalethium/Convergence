@@ -90,8 +90,8 @@ ExplosionCrafting,0,https://raw.githubusercontent.com/Dalethium/Convergence/mast
 FastFurnace,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FastFurnace1.12.21.3.1.jar,both
 FastWorkbench,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FastWorkbench1.12.21.7.3.jar,both
 FoamFix,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/foamfix0.10.101.12.2.jar,both
-ForgeEssentialsClient,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/forgeessentials1.12.212.3.54client.jar,client
-ForgeEssentialsServer,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/forgeessentials1.12.212.3.73server.jar,server
+ForgeEssentialsClient,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/forgeessentials-1.12.2-12.3.79-client.jar,client
+ForgeEssentialsServer,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/forgeessentials-1.12.2-12.3.79-server.jar,server
 ForgeMultipart,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ForgeMultipart1.12.22.6.2.83universal.jar,both
 FpsReducer,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FpsReducermc1.12.21.14.1.jar,client
 FriendlyFire,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FriendlyFire1.12.21.5.12.jar,both
