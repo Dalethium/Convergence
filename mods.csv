@@ -50,10 +50,6 @@ Controllable,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mo
 Controlling,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Controlling3.0.8.jar,client
 CookingForBlockheads,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CookingForBlockheads_1.12.2-6.5.0.jar,both
 CopyPaste,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/copypaste1.1.jar,both
-CorailPillar,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/corailpillar4.2.11.12.jar,both
-CorailPillarBOP,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/corailpillarextensionbiomesoplenty4.0.11.12.jar,both
-CorailPillarChisel,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/corailpillarextensionchisel4.0.01.12.jar,both
-CorailPillarQuark,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/corailpillarextensionquark4.0.01.12.jar,both
 CosmeticArmorReworked,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CosmeticArmorReworked1.12.2v4b.jar,both
 CraftingTweaks,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CraftingTweaks1.12.28.1.9.jar,both
 CraftTweaker,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CraftTweaker21.124.1.20.jar,both
@@ -142,14 +138,13 @@ JustEnoughDimensions,0,https://raw.githubusercontent.com/Dalethium/Convergence/m
 JustEnoughIDs,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/JustEnoughIDs1.0.348.jar,both
 JustEnoughResources,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/JustEnoughResources1.12.20.9.2.60.jar,client
 JustSleep,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/JustSleep1.0.0.1.jar,both
-K4Lib,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/k4lib1.12.12.1.81universal.jar,both
+CoffeeForged,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/coffeeforged-1.12.2-1.0.0.jar,both
 KeepingInventory,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/KeepingInventory1.12.22.4.jar,both
 Labyrinth,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Labyrinth1.12.21.0.jar,both
 LagGoggles,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LagGogglesFAT1.12.24.9.jar,both
 LaunchGui,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LaunchGui1.9.42.0.324client.jar,client
 LegibleNEI,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/legiblenei1.12.21.6.12.9.jar,both
 LessLag,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/lesslag-1.0-1.12.2.jar,client
-LimeLib,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/limelib-1.12.2-1.7.123.jar,both
 LLibrary,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/llibrary-1.7.19-1.12.2.jar,both
 LLOverlayReloaded,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LLOverlayReloaded1.1.6mc1.12.2.jar,client
 LoadingProfiler,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LoadingProfilerMC1.121.3.jar,client
@@ -194,7 +189,7 @@ PlayerPlates,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mo
 PlayersDropHeads,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/playersdropheads1.12.x1.1.0.jar,both
 Plethora,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/plethora1.12.21.2.3.jar,both
 PrettyBeaches,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/PrettyBeaches1.12.21.0.4.jar,both
-ProjectStorage1,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/projectstorage-1.12.2-1.4.jar,both
+ProjectStorage,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/projectstorage-1.12.2-1.3.jar,both
 PyramidPlunder,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/PyramidPlunder1.12.21.4.jar,both
 Quark,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Quark-r1.6-178.jar,both
 RandomConfigs,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/randomconfigs1.12.21.3.2.3.jar,both
@@ -217,8 +212,8 @@ Ruins,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Ruin
 Sampler,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/sampler1.84.jar,both
 ScreenshotToClipboard,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ScreenshotToClipboard1.12.21.0.1.jar,client
 SecretRoomsMod,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/secretroomsmod1.12.25.6.4.jar,both
-ServerInfoProvider,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerInfoProvider1.12.13.0.38universal.jar,server
-ServerInfoViewer,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerInfoViewer-1.12.1-2.0.11-universal.jar,client
+ServerInfoProvider,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerInfoProvider-1.12.2-COFFEE-3.0.1-universal.jar,server
+ServerInfoViewer,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerInfoViewer-1.12.2-COFFEE-2.0.0-universal.jar,client
 ServerTabInfo,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerTabInfo1.12.21.2.6.jar,both
 ShipWrecks,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/shipwrecksmc1.12.22.0.0.jar,both
 ShowcaseMod,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/showcasemod1.12.21.0.0.0.jar,both
