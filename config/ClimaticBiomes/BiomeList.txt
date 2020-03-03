@@ -210,5 +210,6 @@ dimdoors:dangerous_black_void
 minecraftfuture:bamboo_forest
 spectrite:spectrite_dungeon
 beneath:the_beneath
+wrd:dungeonsssssssss
 stygian:stygian_growth
 stygian:acidic_plains
