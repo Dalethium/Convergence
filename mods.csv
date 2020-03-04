@@ -24,7 +24,6 @@ BetterInvalidSession,0,https://raw.githubusercontent.com/Dalethium/Convergence/m
 BetterMobGriefingGamerule,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/bettermobgriefinggamerule1.12.27.1.0.jar,both
 BetterSprinting,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/BetterSprinting1.12.2v3.0.1.jar,both
 BiblioCraft,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/BiblioCraftv2.4.5MC1.12.2.jar,both
-BiomesOPlenty,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/BiomesOPlenty1.12.27.0.1.2444universal.jar,both
 BlockDetector,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/BlockDetector1.3.jar,both
 Bookshelf,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Bookshelf1.12.22.3.590.jar,both
 BornInABarn,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/BornInABarnV1.81.121.1.jar,both
@@ -38,7 +37,6 @@ ChickenChunks,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/m
 ChiselMC,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ChiselMC1.12.21.0.1.44.jar,both
 ChunkPregenerator,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ChunkPregeneratorV1.122.2.jar,both
 ClientTweaks,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ClientTweaks1.12.23.1.11.jar,client
-ClimaticBiomes,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ClimaticBiomes-2.14.17-MC1.12.2.jar,both
 Clumps,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Clumps-3.1.2.jar,both
 CodeChickenLib,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CodeChickenLib1.12.23.2.3.358universal.jar,both
 CoffeeForged,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/coffeeforged-1.12.2-1.0.0.jar,both
@@ -100,7 +98,6 @@ FriendlyFire,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mo
 FullscreenWindowed,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/FullscreenWindowed1.121.6.0.jar,client
 Furniture,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/furniture6.3.11.12.2.jar,both
 FutureMC,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/futuremc0.1.13.jar,both
-GeographiCraft,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/GeographiCraft1.120.8.9b.jar,both
 Globe,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Globe1.12.20.0.1.jar,both
 GottaGoFast,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/gottagofast1.1.jar,both
 GottschCore,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/GottschCore-mc1.12.2-f14.23.5.2768-v1.12.1.jar,both
@@ -135,15 +132,14 @@ JEI,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jei1.1
 JEIIntegration,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jeiintegration1.12.21.5.1.36.jar,client
 JEIVillagers,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jeivillagers1.121.0.2.jar,client
 JEPB,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jepb1.121.2.1.jar,both
-jlgmchatbox,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jlgmchatbox1.12.21.3.1.jar,both
-jlgmpgen,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jlgmpgen1.12.22.4.1.jar,both
+JLGMChatBox,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jlgmchatbox1.12.21.3.1.jar,both
+JLGMPGen,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jlgmpgen1.12.22.4.1.jar,both
 JourneyMap,4,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/journeymap-1.12.2-5.7.0.jar,both
 JustEnoughDimensions,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/justenoughdimensions1.12.21.6.0dev.20191019.172643.jar,both
 JustEnoughIDs,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/JustEnoughIDs1.0.348.jar,both
 JustEnoughResources,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/JustEnoughResources1.12.20.9.2.60.jar,client
 JustSleep,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/JustSleep1.0.0.1.jar,both
 KeepingInventory,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/KeepingInventory1.12.22.4.jar,both
-Labyrinth,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Labyrinth1.12.21.0.jar,both
 LagGoggles,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LagGogglesFAT1.12.24.9.jar,both
 LaunchGui,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LaunchGui1.9.42.0.324client.jar,client
 LegibleNEI,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/legiblenei1.12.21.6.12.9.jar,both
@@ -181,8 +177,16 @@ NoOpSpawnProtection,0,https://raw.githubusercontent.com/Dalethium/Convergence/ma
 NoRecipeBook,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/noRecipeBook_v1.2.2formc1.12.2.jar,client
 OnlinePicFrame,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OnlinePicFrame_v1.4.33_mc1.12.2.jar,both
 OpenEye,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OpenEye1.12.20.8.jar,both
-OptiFine,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OptiFine1.12.2HDUF5MOD.jar,client
+OptiFine,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OptiFine_1.12.2_HD_U_F6_pre1_MOD.jar,client
 OreLib,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OreLib1.12.23.6.0.1.jar,both
+OTG,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OpenTerrainGenerator-1.12.2-v8.3.jar,both
+OTG-BiomeBundle,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Biome_Bundle-1.12.2-v6.1.jar,both
+OTG-Dregora,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Dregora-1.12.2-v1.64-Ocean.jar,both
+OTG-Dungeons,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OTG-Dungeons-1.12.2-v1.jar,both
+OTG-Flatlands,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OTG-Flatlands-1.12.2-v4.jar,both
+OTG-Skylands,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OTG-Skylands-1.12.2-v5.jar,both
+OTG-ThaumicTravelersDream,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ThaumicTravelersDream-Compact-1.12.2-v1.1.jar,both
+OTG-Void,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OTG-Void-1.12.2-v4.jar,both
 Palimpsest,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/palimpsest1.12.21.2.3.jar,both
 PamsHarvestCraft,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/PamsHarvestCraft-1.12.2zf.jar,both
 Patchouli,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Patchouli1.020.jar,both
@@ -199,7 +203,6 @@ ProjectStorage,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 PyramidPlunder,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/PyramidPlunder1.12.21.4.jar,both
 Quark,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Quark-r1.6-178.jar,both
 RandomConfigs,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/randomconfigs1.12.21.3.2.3.jar,both
-RandomLoot,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/randomloot1.7.3.jar,both
 RandomPatches,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/randompatches1.12.21.21.0.0.jar,both
 RandomThingsMC,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/RandomThingsMC1.12.24.2.7.3.jar,both
 RandomTweaks,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/randomtweaks-1.12.2-2.7.1.0.jar,both
@@ -281,7 +284,6 @@ WailaHarvestabilitymc,0,https://raw.githubusercontent.com/Dalethium/Convergence/
 WaitingTime,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/WaitingTime1.0.1.jar,client
 Wawla,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Wawla1.12.22.6.274.jar,both
 Waystones,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Waystones1.12.24.1.0.jar,both
-WelcomeToTheJungle,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/WelcomeToTheJungle1.2006.1222.jar,both
 WesleysRoguelikeDungeons,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Wesleys_Roguelike_Dungeons_V0.8.1.jar,both
 WorldBorder,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/World-Border-1.12.2-1.0.6.jar,server
 WorldGenerationProfiler,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/worldgenerationprofiler1.81.12.21.2.1.5.jar,both
