@@ -221,7 +221,7 @@ Ruins,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Ruin
 Sampler,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/sampler1.84.jar,both
 ScreenshotToClipboard,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ScreenshotToClipboard1.12.21.0.1.jar,client
 SecretRoomsMod,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/secretroomsmod1.12.25.6.4.jar,both
-ServerInfoProvider,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerInfoProvider-1.12.2-COFFEE-3.0.1-universal.jar,server
+ServerInfoProvider,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerInfoProvider-1.12.2-COFFEE-3.0.1-universal.jar,server
 ServerInfoViewer,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerInfoViewer-1.12.2-COFFEE-2.0.0-universal.jar,client
 ServerTabInfo,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ServerTabInfo-1.12.2-1.2.6.jar,both
 ShipWrecks,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/shipwrecksmc1.12.22.0.0.jar,both
