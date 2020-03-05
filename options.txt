@@ -4,17 +4,17 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:8
+renderDistance:12
 guiScale:3
-particles:0
+particles:2
 bobView:true
 anaglyph3d:false
 maxFps:60
 fboEnable:true
 difficulty:1
-fancyGraphics:true
-ao:2
-renderClouds:true
+fancyGraphics:false
+ao:0
+renderClouds:false
 resourcePacks:["Faithful32_MC1.12.2_v1.0.5.zip","ModdedFaithful 1.12.2-rv1.zip","Faithful 1.12.2-rv4.zip","ctp_1.2_MCv3.zip"]
 incompatibleResourcePacks:[]
 lastServer:
@@ -116,8 +116,8 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:0
 key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
 key_key.cavern.miningAssist:47:SHIFT
 key_key.cavern.miningRecords:88
 key_key.cavern.magicBook:46
@@ -126,6 +126,7 @@ key_enchiridion.key.library:38
 key_keys.fe.yes:66
 key_keys.fe.no:67
 key_key.fart.desc:0
+key_keybind.hammercorerenderstack:77
 key_neat.keybind.toggle:0
 key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
@@ -139,6 +140,7 @@ key_World Tooltips Configuration:0
 key_dshuds.keybind.SelectionBox:0
 key_dshuds.keybind.LightLevel:65
 key_dshuds.keybind.ChunkBorders:67
+key_key.pickup.item:0
 key_key.dismount:42
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -154,34 +156,6 @@ key_key.jei.toggleBookmarkOverlay:0
 key_bs.sprint.toggle:34:CONTROL
 key_bs.sneak.toggle:34:SHIFT
 key_bs.menu:0
-key_mod.chiselsandbits.chiselmode.single:0
-key_mod.chiselsandbits.chiselmode.snap2:0
-key_mod.chiselsandbits.chiselmode.snap4:0
-key_mod.chiselsandbits.chiselmode.snap8:0
-key_mod.chiselsandbits.chiselmode.line:0
-key_mod.chiselsandbits.chiselmode.plane:0
-key_mod.chiselsandbits.chiselmode.connected_plane:0
-key_mod.chiselsandbits.chiselmode.cube_small:0
-key_mod.chiselsandbits.chiselmode.cube_medium:0
-key_mod.chiselsandbits.chiselmode.cube_large:0
-key_mod.chiselsandbits.chiselmode.same_material:0
-key_mod.chiselsandbits.chiselmode.drawn_region:0
-key_mod.chiselsandbits.chiselmode.connected_material:0
-key_mod.chiselsandbits.positivepatternmode.replace:0
-key_mod.chiselsandbits.positivepatternmode.additive:0
-key_mod.chiselsandbits.positivepatternmode.placement:0
-key_mod.chiselsandbits.positivepatternmode.impose:0
-key_mod.chiselsandbits.tapemeasure.bit:0
-key_mod.chiselsandbits.tapemeasure.block:0
-key_mod.chiselsandbits.tapemeasure.distance:0
-key_mod.chiselsandbits.other.mode:56
-key_mod.chiselsandbits.other.rotate.ccw:0
-key_mod.chiselsandbits.other.rotate.cw:0
-key_mod.chiselsandbits.other.pickbit:0
-key_mod.chiselsandbits.other.offgrid:0
-key_mod.chiselsandbits.other.undo:0
-key_mod.chiselsandbits.other.redo:0
-key_mod.chiselsandbits.other.add_to_clipboard:0
 key_Options Gui:25
 key_key.clienttweaks.disable_step_assist:0
 key_key.clienttweaks.hide_offhand_item:0
@@ -200,6 +174,7 @@ key_key.craftingtweaks.decompressStack:0
 key_key.craftingtweaks.decompressAll:0
 key_key.craftingtweaks.refill_last:0
 key_key.craftingtweaks.refill_last_stack:0
+key_key.openConfig:47
 key_key.dungeontactics.rocketjump.desc:57
 key_key.dungeontactics.shieldbash.desc:0
 key_key.dungeontactics.trinket1.desc:44
@@ -214,8 +189,18 @@ key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_key.categories.naming:49
 key_invtweaks.key.sort:19
+key_key.rotateup:200
+key_key.rotatedown:208
+key_key.rotateright:205
+key_key.rotateleft:203
+key_key.little.flip:34
+key_key.little.mark:50
+key_key.little.config.item:46
+key_key.little.undo:44:CONTROL
+key_key.little.redo:21:CONTROL
 key_key.llor.hotkey:62
 key_key.memorybar:0
+key_key.otghud.desc:24
 key_keybinding.playerstorage.gui:18
 key_keybinding.playerstorage.invert:83
 key_keybinding.playerstorage.limit:38
@@ -223,7 +208,6 @@ key_keybinding.playerstorage.highlight:35
 key_keybinding.playerstorage.delete:32:CONTROL
 key_options.narrator:48:CONTROL
 key_xreliquary.keybind.fortune_coin:0
-key_signpic.key.gui:43
 key_Trade:47:CONTROL
 key_key.control:29
 key_key.journeymap.zoom_in:13
@@ -244,7 +228,7 @@ key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
 key_Profile GUI:210
 key_key.secretroomsmod.oneWayface:43
-soundCategory_master:0.16556291
+soundCategory_master:0.029801324
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
