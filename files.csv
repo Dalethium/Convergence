@@ -1529,3 +1529,6 @@
 /options.txt,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/options.txt,client
 /optionsof.txt,6,https://raw.githubusercontent.com/Dalethium/Convergence/master/optionsof.txt,client
 /optionsshaders.txt,5,https://raw.githubusercontent.com/Dalethium/Convergence/master/optionsshaders.txt,client
+/marytts/marytts-runtime-5.2-jar-for-computronics.jar,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/marytts/marytts-runtime-5.2-jar-for-computronics.jar,client
+/marytts/marytts-lang-en-5.2.jar,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/marytts/marytts-lang-en-5.2.jar,client
+/marytts/voice-cmu-slt-hsmm-5.2.jar,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/marytts/voice-cmu-slt-hsmm-5.2.jar,client
