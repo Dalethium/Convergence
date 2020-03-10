@@ -52,7 +52,6 @@ CraftTweaker,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mo
 Computronics,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Computronics-1.12.2-1.6.6.jar,both
 CraftTweakerUtils,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/crafttweakerutils0.6.jar,both
 CrammingPressurePlate,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CrammingPressurePlate1.0.jar,both
-CreativeCore,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CreativeCore_v1.9.90_mc1.12.2.jar,both
 CrimsonRevelations,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/crimsonrevelations-0.7.jar,both
 CrowMap,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/crowmap1.1.2.jar,both
 CTMMC,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CTMMC1.12.21.0.1.30.jar,client
@@ -87,7 +86,6 @@ Enchiridion,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 EnderHopper,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/enderhopper1.12.21.0.1.jar,both
 EnderStorage,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EnderStorage1.12.22.4.6.137universal.jar,both
 EndRebornIII,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EndRebornIII0.3.1.jar,both
-EnhancedVisuals,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EnhancedVisualsv1.2.7mc1.12.2.jar,client
 EqualDragons,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EqualDragons1.1.jar,both
 EvilNotchLib,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EvilNotchLibSNAPSHOT103.jar,both
 ExplosionCrafting,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ExplosionCrafting0.7beta.jar,both
@@ -129,7 +127,6 @@ InvertedRedstone,0,https://raw.githubusercontent.com/Dalethium/Convergence/maste
 IronChest,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ironchest1.12.27.0.72.847.jar,both
 IronFurnaces,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ironfurnaces1.3.5.jar,both
 ItemBlacklist,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ItemBlacklist1.4.3.jar,both
-ItemPhysics,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ItemPhysic_Full_1.4.28_mc1.12.2.jar,both
 IvToolkit,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/IvToolkit1.3.31.12.jar,both
 JEHC,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/just-enough-harvestcraft-1.12.2-1.7.0.jar,client
 JEI,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/jei1.12.24.15.0.293.jar,both
@@ -148,7 +145,6 @@ LagGoggles,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods
 LaunchGui,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LaunchGui1.9.42.0.324client.jar,client
 LegibleNEI,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/legiblenei1.12.21.6.12.9.jar,both
 LessLag,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/lesslag-1.0-1.12.2.jar,client
-LittleTiles,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LittleTiles_v1.5.0-pre198_mc1.12.2.jar,both
 LLibrary,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/llibrary-1.7.19-1.12.2.jar,both
 LLOverlayReloaded,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LLOverlayReloaded1.1.6mc1.12.2.jar,client
 LoadingProfiler,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/LoadingProfilerMC1.121.3.jar,client
@@ -179,7 +175,6 @@ NoMoreRecipeConflict,0,https://raw.githubusercontent.com/Dalethium/Convergence/m
 NoNVFlash,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/NoNVFlash-1.12.2-1.2.0.3-universal.jar,client
 NoOpSpawnProtection,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/NoOpSpawnProtection1.12.22.3.23.jar,both
 NoRecipeBook,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/noRecipeBook_v1.2.2formc1.12.2.jar,client
-OnlinePicFrame,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OnlinePicFrame_v1.4.33_mc1.12.2.jar,both
 OpenEye,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OpenEye1.12.20.8.jar,both
 OptiFine,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OptiFine_1.12.2_HD_U_F6_pre1_MOD.jar,client
 OreLib,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OreLib1.12.23.6.0.1.jar,both
