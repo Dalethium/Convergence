@@ -1075,7 +1075,6 @@
 /config/dailies.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/dailies.cfg,client
 /config/deathcounter.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/deathcounter.cfg,client
 /config/deathquotes.txt,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/deathquotes.txt,client
-/config/defaultsettings.json,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/defaultsettings.json,client
 /config/defaultworldgenerator-port/worldsettings.data,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/defaultworldgenerator-port/worldsettings.data,client
 /config/defeatedcrow/dispenser/shears_item.json,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/defeatedcrow/dispenser/shears_item.json,client
 /config/denyblocks/configGeneral.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/denyblocks/configGeneral.cfg,client
@@ -1122,7 +1121,6 @@
 /config/enchdesc.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/enchdesc.cfg,client
 /config/enchiridion/books/Guide.json,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/enchiridion/books/Guide.json,client
 /config/enchiridion/books/icons/Guide.json,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/enchiridion/books/icons/Guide.json,client
-/config/enchiridion/books/images/Guide/book.png,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/enchiridion/books/images/Guide/book.png,client
 /config/enchiridion/enchiridion.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/enchiridion/enchiridion.cfg,client
 /config/enchiridion/library/smp.json,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/enchiridion/library/smp.json,client
 /config/enderstorage.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/enderstorage.cfg,client
@@ -1227,6 +1225,7 @@
 /config/pyramidplunder.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/pyramidplunder.cfg,client
 /config/quark.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/quark.cfg,client
 /config/randomconfigs/attackspeeds.json,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/randomconfigs/attackspeeds.json,client
+/config/randomconfigs/defaultgamerules.json,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/randomconfigs/defaultgamerules.json,client
 /config/randomloot/randomloot.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/randomloot/randomloot.cfg,client
 /config/randompatches.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/randompatches.cfg,client
 /config/randomthings.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/randomthings.cfg,client
