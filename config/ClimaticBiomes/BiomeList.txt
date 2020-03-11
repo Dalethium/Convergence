@@ -167,6 +167,9 @@ thaumcraft:magical_forest
 thaumcraft:eerie
 thaumcraft:eldritch
 sugiforest:sugi_forest
+thaumicaugmentation:emptiness
+thaumicaugmentation:tainted_lands
+thaumicaugmentation:emptiness_highlands
 twilightforest:twilight_lake
 twilightforest:twilight_forest
 twilightforest:dense_twilight_forest
