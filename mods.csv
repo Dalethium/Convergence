@@ -1,10 +1,7 @@
 AdditionalLootTables,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/AdditionalLootTables1.122.0.3.45.jar,both
 Adventurepack,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/adventurepack1.7.0.jar,both
-AIImprovements,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/AIImprovements1.120.0.1b3.jar,both
 AmbientSounds,0,https://weneed.coffee/mods/AmbientSoundsv3.0.9mc1.12.2.jar,client
-AngelRingToBauble,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/angelRingToBauble1.120.3.1.50d4e654e.jar,both
-AngerManagement,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/angermanagement1.12.21.0.2.jar,both
-AnvilPatch,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/anvilpatch1.0.0.jar,both
+AngerManagement,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/angermanagement1.12.21.0.2.jar,
 AppleSkin,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/AppleSkinmc1.121.0.9.jar,client
 AttributeFix,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/AttributeFix1.12.21.0.10.jar,both
 AutoRegLib,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/AutoRegLib1.332.jar,both
@@ -30,7 +27,6 @@ Bridges,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/mc
 Capsule,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Capsule1.12.23.3.7.jar,both
 Cavern,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Cavern1.12.2v2.2.0.jar,both
 CCTweaked,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/cctweaked1.12.21.86.2.jar,both
-Charm,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Charm-1.12.2-1.3.6.jar,both
 ChickenChunks,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ChickenChunks1.12.22.4.2.74universal.jar,both
 ChiselMC,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ChiselMC1.12.21.0.1.44.jar,both
 ChunkPregenerator,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ChunkPregeneratorV1.122.2.jar,both
