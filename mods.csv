@@ -24,12 +24,10 @@ BrandersLampBlock,0,https://raw.githubusercontent.com/Dalethium/Convergence/mast
 Bridges,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/mcw-bridges-1.0.3-mc1.12.2.jar,both
 Capsule,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Capsule1.12.23.3.7.jar,both
 CCTweaked,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/cctweaked1.12.21.86.2.jar,both
-ChickenChunks,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ChickenChunks1.12.22.4.2.74universal.jar,both
 ChiselMC,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ChiselMC1.12.21.0.1.44.jar,both
 ChunkPregenerator,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ChunkPregeneratorV1.122.2.jar,both
 ClientTweaks,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ClientTweaks_1.12.2-3.1.11.jar,client
 Clumps,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Clumps-3.1.2.jar,both
-CodeChickenLib,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CodeChickenLib1.12.23.2.3.358universal.jar,both
 CoffeeForged,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/coffeeforged-1.12.2-1.0.0.jar,both
 CompactMachines,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/compactmachines31.12.23.0.18b278.jar,both
 ConsoleFilter,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ConsoleFilter1.12.21.1.1.jar,both
@@ -77,7 +75,6 @@ EnchantmentDescriptions,0,https://raw.githubusercontent.com/Dalethium/Convergenc
 EnchControl,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/enchcontrol1.12.21.1.50.jar,both
 Enchiridion,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Enchiridion-1.12.2-3.3.5.jar,both
 EnderHopper,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/enderhopper1.12.21.0.1.jar,both
-EnderStorage,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EnderStorage1.12.22.4.6.137universal.jar,both
 EndRebornIII,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EndRebornIII0.3.1.jar,both
 EqualDragons,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EqualDragons1.1.jar,both
 EvilNotchLib,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EvilNotchLibSNAPSHOT103.jar,both
