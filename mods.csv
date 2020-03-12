@@ -60,7 +60,6 @@ Ding,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Ding1
 DoomlikeDungeons,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DoomlikeDungeons-1.13.1-MC1.12.2.jar,both
 DungeonTactics,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DungeonTactics1.12.20.16.6.jar,both
 DupeFixProject,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DupeFix_Project_1.5.jar,server
-DynamicSurroundings,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DynamicSurroundings1.12.23.6.0.2.jar,both
 DynamicSurroundingsHuds,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DynamicSurroundingsHuds1.12.23.6.0.0.jar,client
 Dynmap,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Dynmap-3.0-beta-4-forge-1.12.2.jar,server
 DynmapBlockScan,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DynmapBlockScan-3.0-SNAPSHOT-forge-1.12.2.jar,server
@@ -165,7 +164,6 @@ NoOpSpawnProtection,0,https://raw.githubusercontent.com/Dalethium/Convergence/ma
 NoRecipeBook,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/noRecipeBook_v1.2.2formc1.12.2.jar,client
 OpenEye,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OpenEye1.12.20.8.jar,both
 OptiFine,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OptiFine_1.12.2_HD_U_F6_pre1_MOD.jar,client
-OreLib,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OreLib1.12.23.6.0.1.jar,both
 OTG,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/OpenTerrainGenerator-1.12.2-v8.3.jar,both
 OTG-BiomeBundle,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Biome_Bundle-1.12.2-v6.1.jar,both
 OTG-Dregora,1,https://weneed.coffee/mods/Dregora-1.12.2-v1.64-Ocean.jar,both
@@ -252,7 +250,6 @@ TravelHut,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/
 Treasure2,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Treasure2mc1.12.2f14.23.5.2768v1.9.0.jar,both
 Trophy,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Trophy1.0.jar,both
 TumbleWeed,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/tumbleweed1.120.4.7.jar,both
-TwilightForest,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/twilightforest1.12.23.10.1013universal.jar,both
 UndergroundBiomesConstructs,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/UndergroundBiomesConstructs1.121.3.7.jar,both
 UnderwaterRails,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/underwaterrails1.0.0universal.jar,both
 UnforgivingVoid,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/UnforgivingVoid1.12.21.0.5.jar,both
@@ -269,7 +266,6 @@ WailaHarvestabilitymc,0,https://raw.githubusercontent.com/Dalethium/Convergence/
 WaitingTime,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/WaitingTime1.0.1.jar,client
 Wawla,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Wawla1.12.22.6.274.jar,both
 Waystones,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Waystones1.12.24.1.0.jar,both
-WesleysRoguelikeDungeons,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Wesleys_Roguelike_Dungeons_V0.8.1.jar,both
 WorldBorder,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/World-Border-1.12.2-1.0.6.jar,server
 WorldGenerationProfiler,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/worldgenerationprofiler1.81.12.21.2.1.5.jar,both
 WorldJoinText,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/WorldJoinTextMC1.12.21.1.0.jar,both
