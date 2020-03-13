@@ -6,6 +6,7 @@ BiblioCraft,1,228027,2574880,both
 BornInABarn,1,285789,2641661,both
 Bountiful,1,309516,2829714,both
 BubleColumn,1,327277,2795014,both
+CCTweaked,1,282001,2860048,both
 Charm,1,318872,2776773,both
 ChickenChunks,1,243883,2755785,both
 Chisel,1,235279,2813538,both
@@ -13,15 +14,11 @@ CodeChickenLib,1,242818,2779848,both
 Conduits,1,322124,2850235,both
 CreativeCore,2,257814,2898767,both
 CrimsonRevelations,1,359498,2865577,both
-EndRebornIII,1,286231,2710143,both
-TickProfiler,1,270330,2621293,both
-Sledgehammer,1,319175,2894584,both
-Treasure2,1,319175,2894584,both
-CCTweaked,1,282001,2860048,both
 DungeonTactics,1,242500,2771733,both
 DynamicSurroundings,1,238891,2825354,both
 EnchantmentDescriptions,1,250419,2898966,client
 EnderStorage,1,245174,2755787,both
+EndRebornIII,1,286231,2710143,both
 EnhancedVisuals,2,255389,2898765,client
 Forgelin,1,248453,2785465,both
 Furniture,1,55438,2749993,both
@@ -43,6 +40,7 @@ PeripheralsPlusOne,1,279746,2550725,both
 Quark,1,243121,2889332,both
 RandomThings,1,59816,2751591,both
 RecurrentComplex,1,223150,2689602,both
+Sledgehammer,1,319175,2894584,both
 SoundFilters,1,222789,2892340,client
 Spectrite,1,268094,2655943,both
 Thaumcraft,1,223628,2629023,both
@@ -50,6 +48,8 @@ ThaumicAdditions,1,232564,2892494,both
 ThaumicAugmentation,1,319441,2882356,both
 TheBeneath,1,254629,2850842,both
 TheMidnight,1,304881,2727758,both
+TickProfiler,1,270330,2621293,both
+Treasure2,2,289760,2894117,both
 TwilightForest,1,227639,2818055,both
 UnderwaterWorld,1,364754,2896043,both
 WesleysRoguelikeDungeons,1,332234,2841053,both
