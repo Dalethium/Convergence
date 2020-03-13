@@ -21,7 +21,6 @@ Bookshelf,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/
 BrandersLampBlock,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/branderslampblock1.12.2.jar,both
 Bridges,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/mcw-bridges-1.0.3-mc1.12.2.jar,both
 Capsule,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Capsule1.12.23.3.7.jar,both
-CCTweaked,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/cctweaked1.12.21.86.2.jar,both
 ChunkPregenerator,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ChunkPregeneratorV1.122.2.jar,both
 ClientTweaks,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ClientTweaks_1.12.2-3.1.11.jar,client
 Clumps,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Clumps-3.1.2.jar,both
@@ -39,7 +38,6 @@ CraftTweaker,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mo
 Computronics,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Computronics-1.12.2-1.6.6.jar,both
 CraftTweakerUtils,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/crafttweakerutils0.6.jar,both
 CrammingPressurePlate,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CrammingPressurePlate1.0.jar,both
-CrimsonRevelations,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/crimsonrevelations-0.7.jar,both
 CrowMap,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/crowmap1.1.2.jar,both
 CTMMC,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CTMMC1.12.21.0.1.30.jar,client
 CustomCursorMod,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/CustomCursorMod1.2.2.jar,client
@@ -49,7 +47,6 @@ CustomStuff,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mod
 Dailies,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/dailies1.12.26.jar,both
 DeathCounter,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DeathCounter1.12.21.1.0.jar,both
 DeathQuotes,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DeathQuotes1.2.0mc1.12forge.jar,both
-DefaultWorldGeneratorport,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DefaultWorldGeneratorport1.122.3.jar,client
 DenyBlocksMC,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/DenyBlocksMC1.12.21.1.6.jar,both
 DimensionalDoors,2,https://github.com/DimensionalDevelopment/DimDoors/releases/download/untagged-006689af32dd7475f546/DimensionalDoors-1.12.2-3.0.9-306.jar,both
 Ding,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Ding1.12.21.0.2.jar,client
@@ -67,7 +64,6 @@ EnchantingWithThaumcraft,0,https://raw.githubusercontent.com/Dalethium/Convergen
 EnchControl,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/enchcontrol1.12.21.1.50.jar,both
 Enchiridion,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Enchiridion-1.12.2-3.3.5.jar,both
 EnderHopper,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/enderhopper1.12.21.0.1.jar,both
-EndRebornIII,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EndRebornIII0.3.1.jar,both
 EqualDragons,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EqualDragons1.1.jar,both
 EvilNotchLib,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/EvilNotchLibSNAPSHOT103.jar,both
 ExplosionCrafting,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ExplosionCrafting0.7beta.jar,both
@@ -193,7 +189,6 @@ SignButton,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods
 SimpleLogicGates,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/SimpleLogicGates0.5.6.1.jar,both
 SimpleTrophies,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/simpletrophies1.2.2.1.jar,both
 Simplyloaders,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Simplyloaders2.0.jar,both
-Sledgehammer,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Sledgehammer1.12.20.72.0.0.jar,both
 SpawnTemple,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/SpawnTemplev.2.1mc1.12.jar,both
 Stackie,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Stackie1.12.21.6.0.48universal.jar,both
 StackSize,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/stacksize1.12.21.0.jar,both
@@ -205,19 +200,16 @@ SurvivalTweaks,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/
 TallGates,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/TallGates1.12.21.0.0.1.jar,both
 TC6Aspects4JEI,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/tc6aspects4jei0.0.2a.jar,client
 TechnicalLights,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/technicallights1.0.1.2.jar,both
-ThaumicGadgets,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ThaumicGadgets1.12.20.1.5.1tb.26.jar,both
 ThaumicInventoryScanning,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ThaumicInventoryScanning1.12.22.0.10.jar,both
 ThaumicPeriphery,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/thaumicperiphery0.3.1.jar,both
 ThaumicWaila,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/ThaumicWaila-1.12.2-0.0.1.jar,both
 ThePlopper,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/theplopper1.12.xv1.2.1.jar,both
 Threshold,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Threshold1.1.jar,both
-TickProfiler,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/TickProfiler1.120.0.7.jar,both
 TinyProgressions,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/tinyprogressions1.12.23.3.34Release.jar,both
 TipTheScales,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/TipTheScales-1.12.2-1.0.4.jar,client
 TooltipTweaker,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/tooltiptweaker1.0.jar,client
 Trade,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/trade1.0.4.jar,both
 TravelHut,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/travelhut3.0.2.jar,both
-Treasure2,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Treasure2mc1.12.2f14.23.5.2768v1.9.0.jar,both
 Trophy,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/Trophy1.0.jar,both
 TumbleWeed,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/tumbleweed1.120.4.7.jar,both
 UndergroundBiomesConstructs,0,https://raw.githubusercontent.com/Dalethium/Convergence/master/mods/UndergroundBiomesConstructs1.121.3.7.jar,both
