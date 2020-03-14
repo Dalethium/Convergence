@@ -19,7 +19,7 @@ DynamicSurroundings,1,238891,2825354,both
 EnchantmentDescriptions,1,250419,2898966,client
 EnderStorage,1,245174,2755787,both
 EndRebornIII,1,286231,2710143,both
-EnhancedVisuals,2,255389,2898765,client
+EnhancedVisuals,3,255389,2899872,client
 Forgelin,1,248453,2785465,both
 Furniture,1,55438,2749993,both
 FutureMC,1,310059,2812165,both
@@ -28,7 +28,6 @@ InventoryPets,1,229380,2765338,both
 ItemPhysics,2,258587,2899276,both
 JourneyMap,1,32274,2888880,both
 LessLag,1,289444,2537249,client
-LittleTiles,2,257818,2898766,both
 MCMPSwords,2,365927,2898477,both
 OnlinePicFrame,1,257815,2896958,both
 OreLib,1,307806,2820815,both
