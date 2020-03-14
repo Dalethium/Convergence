@@ -10,7 +10,9 @@ Launch MultiMC
 
 Pick your language and ensure you pick java 8 64 bit if given the option.
 
-Click install pack and install from this zip/link: https://raw.githubusercontent.com/WeNeedCoffee/Convergence/master/Convergence%20-%20Roots.zip
+Click install pack and install from this zip/link: https://weneed.coffee/Convergence%20-%20Roots.zip
+
+If multimc does not like that zip, download it first then put it in.
 
 Click edit instance
 
