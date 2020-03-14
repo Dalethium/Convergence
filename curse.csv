@@ -1,7 +1,6 @@
 AdditionalStructures,1,297680,2810589,both
 AmbientSounds,1,254284,2898769,client
 AntiGhost,1,273279,2856128,both
-BetterPortals,1,322948,2883633,both
 BiblioCraft,1,228027,2574880,both
 BornInABarn,1,285789,2641661,both
 Bountiful,1,309516,2829714,both
@@ -30,7 +29,6 @@ ItemPhysics,2,258587,2899276,both
 JourneyMap,1,32274,2888880,both
 LessLag,1,289444,2537249,client
 LittleTiles,2,257818,2898766,both
-UndergroundBiomesConstructs,1,293268,2771415,both
 MCMPSwords,2,365927,2898477,both
 OnlinePicFrame,1,257815,2896958,both
 OreLib,1,307806,2820815,both
@@ -53,6 +51,7 @@ TheMidnight,1,304881,2727758,both
 TickProfiler,1,270330,2621293,both
 Treasure2,2,289760,2894117,both
 TwilightForest,1,227639,2818055,both
+UndergroundBiomesConstructs,1,293268,2771415,both
 UnderwaterWorld,1,364754,2896043,both
 VanillaBuildersExtension,1,264480,2693350,both
 WesleysRoguelikeDungeons,1,332234,2841053,both
