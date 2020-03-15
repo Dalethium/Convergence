@@ -115,7 +115,6 @@
 /config/additionalcompression.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/additionalcompression.cfg,client
 /config/adventurepack.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/adventurepack.cfg,client
 /config/alt.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/alt.cfg,client
-/config/ambientsounds.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/ambientsounds.cfg,client
 /config/angermanagement.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/angermanagement.cfg,client
 /config/anvilpatch.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/anvilpatch.cfg,client
 /config/appleskin.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/appleskin.cfg,client
@@ -234,8 +233,6 @@
 /config/cosmeticarmorreworked.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/cosmeticarmorreworked.cfg,client
 /config/craftingtweaks.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/craftingtweaks.cfg,client
 /config/cramming.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/cramming.cfg,client
-/config/creativecore-client.json,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/creativecore-client.json,client
-/config/creativecore.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/creativecore.cfg,client
 /config/creativeplus.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/creativeplus.cfg,client
 /config/crowmap.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/crowmap.cfg,client
 /config/ctm.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/ctm.cfg,client
@@ -263,8 +260,6 @@
 /config/enchiridion/library/smp.json,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/enchiridion/library/smp.json,client
 /config/enderstorage.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/enderstorage.cfg,client
 /config/endreborn.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/endreborn.cfg,client
-/config/enhancedvisuals-client.json,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/enhancedvisuals-client.json,client
-/config/enhancedvisuals.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/enhancedvisuals.cfg,client
 /config/epicsiegemod.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/epicsiegemod.cfg,client
 /config/equaldragons.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/equaldragons.cfg,client
 /config/evilnotchlib/asm.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/evilnotchlib/asm.cfg,client
@@ -326,9 +321,6 @@
 /config/labyrinth.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/labyrinth.cfg,client
 /config/lesslag.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/lesslag.cfg,client
 /config/limelib.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/limelib.cfg,client
-/config/littletiles-client.json,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/littletiles-client.json,client
-/config/littletiles.cfg,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/littletiles.cfg,client
-/config/littletiles.json,1,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/littletiles.json,client
 /config/loadingprofiler.cfg,2,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/loadingprofiler.cfg,client
 /config/login_shield.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/login_shield.cfg,client
 /config/loottweaker.cfg,3,https://raw.githubusercontent.com/Dalethium/Convergence/master/config/loottweaker.cfg,client
