@@ -1,10 +1,8 @@
-#AmbientSounds,1,254284,2898769,client
-#CreativeCore,2,257814,2898767,both
-#ItemPhysics,2,258587,2899276,both
 #LittleTiles,4,257818,2902233,both
-#SoundFilters,1,222789,2892340,client
 AdditionalStructures,1,297680,2810589,both
+AmbientSounds,2,254284,2903387,client
 AntiGhost,1,273279,2856128,both
+AutoRegLib,1,250363,2746011,both
 BiblioCraft,1,228027,2574880,both
 BornInABarn,1,285789,2641661,both
 Bountiful,1,309516,2829714,both
@@ -16,6 +14,7 @@ Chisel,1,235279,2813538,both
 CodeChickenLib,1,242818,2779848,both
 Conduits,1,322124,2850235,both
 CraftTweaker,1,239197,2838090,both
+CreativeCore,3,257814,2903373,both
 CrimsonRevelations,1,359498,2865577,both
 CrowMap,1,301943,2779345,both
 DungeonTactics,1,242500,2771733,both
@@ -23,14 +22,14 @@ DynamicSurroundings,1,238891,2825354,both
 EnchantmentDescriptions,1,250419,2898966,client
 EnderStorage,1,245174,2755787,both
 EndRebornIII,1,286231,2710143,both
-EnhancedVisuals,4,255389,2902234,client
+EnhancedVisuals,5,255389,2903370,client
 Forgelin,1,248453,2785465,both
 Furniture,1,55438,2749993,both
 FutureMC,1,310059,2812165,both
 HammerCore,1,247401,2879743,both
 InventoryPets,1,229380,2765338,both
+ItemPhysics,3,258587,2903368,both
 JourneyMap,1,32274,2888880,both
-AutoRegLib,1,250363,2746011,both
 LessLag,1,289444,2537249,client
 MCMPSwords,2,365927,2898477,both
 MegaMap,1,303090,2629551,both
@@ -45,6 +44,7 @@ Quark,1,243121,2889332,both
 RandomThings,1,59816,2751591,both
 RecurrentComplex,1,223150,2689602,both
 Sledgehammer,1,319175,2894584,both
+SoundFilters,1,222789,2892340,client
 Spectrite,1,268094,2655943,both
 Thaumcraft,1,223628,2629023,both
 ThaumicAdditions,1,232564,2892494,both
@@ -58,4 +58,5 @@ UndergroundBiomesConstructs,1,293268,2771415,both
 UnderwaterWorld,1,364754,2896043,both
 VanillaBuildersExtension,1,264480,2693350,both
 WesleysRoguelikeDungeons,1,332234,2841053,both
+WorldTooltips,1,241545,2668458,client
 WumpleUtil,1,298323,2849447,both
