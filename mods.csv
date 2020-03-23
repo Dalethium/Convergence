@@ -103,6 +103,7 @@ JEPB,0,https://weneed.coffee/mods/jepb1.121.2.1.jar,both
 JLGMChatBox,1,https://weneed.coffee/mods/jlgmchatbox1.12.21.3.1.jar,both
 JLGMPGen,1,https://weneed.coffee/mods/jlgmpgen1.12.22.4.1.jar,both
 JustEnoughDimensions,0,https://weneed.coffee/mods/justenoughdimensions1.12.21.6.0dev.20191019.172643.jar,both
+JustEnoughIDs,0,https://weneed.coffee/mods/JustEnoughIDs1.0.348.jar,both
 JustEnoughResources,0,https://weneed.coffee/mods/JustEnoughResources1.12.20.9.2.60.jar,client
 KeepingInventory,0,https://weneed.coffee/mods/KeepingInventory1.12.22.4.jar,both
 LagGoggles,0,https://weneed.coffee/mods/LagGogglesFAT1.12.24.9.jar,both
@@ -206,7 +207,7 @@ UnderwaterRails,0,https://weneed.coffee/mods/underwaterrails1.0.0universal.jar,b
 UnforgivingVoid,0,https://weneed.coffee/mods/UnforgivingVoid1.12.21.0.5.jar,both
 Unloader,0,https://weneed.coffee/mods/unloader1.2.0.jar,both
 UsefulInterior,0,https://weneed.coffee/mods/UsefulInterior0.13.11.12.2.jar,both
-VanillaFix,3,https://github.com/DimensionalDevelopment/VanillaFix/releases/download/untagged-9ceaa032c90fcdc6db20/VanillaFix-1.0.10-149.jar,both
+VanillaFix,0,https://weneed.coffee/mods/VanillaFix1.0.1099.jar,both
 VanillaTweaks,0,https://weneed.coffee/mods/VanillaTweaks1.12.21.5.6.jar,both
 VillagerMarket,0,https://weneed.coffee/mods/villagermarket1.12.21.0.2.jar,both
 VillagerTrades,0,https://weneed.coffee/mods/VillagerTrades1.120.6.4.jar,both
