@@ -47,8 +47,6 @@ DeathQuotes,0,https://weneed.coffee/mods/DeathQuotes1.2.0mc1.12forge.jar,both
 DenyBlocksMC,0,https://weneed.coffee/mods/DenyBlocksMC1.12.21.1.6.jar,both
 DimensionalDoors,2,https://github.com/DimensionalDevelopment/DimDoors/releases/download/untagged-006689af32dd7475f546/DimensionalDoors-1.12.2-3.0.9-306.jar,both
 Ding,0,https://weneed.coffee/mods/Ding1.12.21.0.2.jar,client
-DoomlikeDungeons,3,https://weneed.coffee/mods/DoomlikeDungeons-1.13.1-MC1.12.2.jar,both
-DupeFixProject,1,https://weneed.coffee/mods/DupeFix_Project_1.5.jar,server
 DynamicSurroundingsHuds,0,https://weneed.coffee/mods/DynamicSurroundingsHuds1.12.23.6.0.0.jar,client
 Dynmap,1,https://weneed.coffee/mods/Dynmap-3.0-beta-4-forge-1.12.2.jar,server
 DynmapBlockScan,1,https://weneed.coffee/mods/DynmapBlockScan-3.0-SNAPSHOT-forge-1.12.2.jar,server
@@ -105,7 +103,6 @@ JEPB,0,https://weneed.coffee/mods/jepb1.121.2.1.jar,both
 JLGMChatBox,1,https://weneed.coffee/mods/jlgmchatbox1.12.21.3.1.jar,both
 JLGMPGen,1,https://weneed.coffee/mods/jlgmpgen1.12.22.4.1.jar,both
 JustEnoughDimensions,0,https://weneed.coffee/mods/justenoughdimensions1.12.21.6.0dev.20191019.172643.jar,both
-JustEnoughIDs,0,https://weneed.coffee/mods/JustEnoughIDs1.0.348.jar,both
 JustEnoughResources,0,https://weneed.coffee/mods/JustEnoughResources1.12.20.9.2.60.jar,client
 KeepingInventory,0,https://weneed.coffee/mods/KeepingInventory1.12.22.4.jar,both
 LagGoggles,0,https://weneed.coffee/mods/LagGogglesFAT1.12.24.9.jar,both
@@ -211,7 +208,6 @@ Unloader,0,https://weneed.coffee/mods/unloader1.2.0.jar,both
 UsefulInterior,0,https://weneed.coffee/mods/UsefulInterior0.13.11.12.2.jar,both
 VanillaFix,0,https://weneed.coffee/mods/VanillaFix1.0.1099.jar,both
 VanillaTweaks,0,https://weneed.coffee/mods/VanillaTweaks1.12.21.5.6.jar,both
-VillageNames,2,https://weneed.coffee/mods/VillageNames-1.12.2-3.2.3.jar,both
 VillagerMarket,0,https://weneed.coffee/mods/villagermarket1.12.21.0.2.jar,both
 VillagerTrades,0,https://weneed.coffee/mods/VillagerTrades1.120.6.4.jar,both
 VTweaks,0,https://weneed.coffee/mods/VTweaks1.12.22.0.8.jar,both
