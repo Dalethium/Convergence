@@ -43,6 +43,7 @@ OTG-BiomeBundle,1,241542,2505277,both
 OTG-ThaumicTravelersDream,1,350196,2848876,both
 OTG,1,265894,2835526,both
 PamsHarvestCraft,1,221857,2771840,both
+Performant,1,354143,2909182,server
 PeripheralsPlusOne,1,279746,2550725,both
 Quark,1,243121,2889332,both
 RandomThings,2,59816,2905241,both
@@ -61,7 +62,7 @@ TwilightForest,1,227639,2818055,both
 UndergroundBiomesConstructs,1,293268,2771415,both
 UnderwaterWorld,1,364754,2896043,both
 VanillaBuildersExtension,1,264480,2693350,both
-VillagerNames,1,259230,2906779,both
+VillagerNames,2,259230,2912743,both
 WesleysRoguelikeDungeons,1,332234,2841053,both
 WorldTooltips,1,241545,2668458,client
 WumpleUtil,1,298323,2849447,both
